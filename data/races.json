@@ -1,0 +1,182 @@
+[
+  {
+    "id": "Human",
+    "age_min": 16,
+    "age_max": 60,
+    "mult": {},
+    "flat": {},
+    "names": {
+      "male": [
+        "Aldric",
+        "Corvin",
+        "Dorian",
+        "Edric",
+        "Gareth",
+        "Tomas"
+      ],
+      "female": [
+        "Elena",
+        "Mira",
+        "Selene",
+        "Isolde",
+        "Lyra",
+        "Brenna"
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "Elf",
+    "age_min": 80,
+    "age_max": 400,
+    "mult": {
+      "magic_atk": 1.1,
+      "magic_def": 1.1,
+      "max_hp": 0.95,
+      "speed": 1.05
+    },
+    "flat": {},
+    "names": {
+      "male": [
+        "Aelar",
+        "Faelan",
+        "Thalion",
+        "Erevan",
+        "Ilyan",
+        "Variel"
+      ],
+      "female": [
+        "Aerith",
+        "Sylvara",
+        "Naelis",
+        "Liriel",
+        "Elowen",
+        "Thessaly"
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "Dwarf",
+    "age_min": 40,
+    "age_max": 200,
+    "mult": {
+      "max_hp": 1.1,
+      "phys_def": 1.1,
+      "speed": 0.95
+    },
+    "flat": {},
+    "names": {
+      "male": [
+        "Borin",
+        "Durgan",
+        "Thrain",
+        "Gimrik",
+        "Harbek",
+        "Orsik"
+      ],
+      "female": [
+        "Brunhild",
+        "Dagna",
+        "Helga",
+        "Kathra",
+        "Mardred",
+        "Vistra"
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "Beastkin",
+    "age_min": 16,
+    "age_max": 50,
+    "mult": {
+      "phys_atk": 1.05,
+      "speed": 1.1
+    },
+    "flat": {
+      "evasion": 2
+    },
+    "names": {
+      "male": [
+        "Rakan",
+        "Fenrik",
+        "Tavo",
+        "Korg",
+        "Zeph",
+        "Brindle"
+      ],
+      "female": [
+        "Nyra",
+        "Kitsa",
+        "Sable",
+        "Tamsin",
+        "Ayla",
+        "Vesper"
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "Orc",
+    "age_min": 16,
+    "age_max": 45,
+    "mult": {
+      "max_hp": 1.1,
+      "phys_atk": 1.1,
+      "magic_atk": 0.9,
+      "magic_def": 0.95
+    },
+    "flat": {},
+    "names": {
+      "male": [
+        "Grom",
+        "Thokk",
+        "Urzul",
+        "Draka",
+        "Mogar",
+        "Bolg"
+      ],
+      "female": [
+        "Shaka",
+        "Ugra",
+        "Yazga",
+        "Morga",
+        "Lurtz",
+        "Grisha"
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "Fairykin",
+    "age_min": 20,
+    "age_max": 150,
+    "mult": {
+      "magic_atk": 1.1,
+      "speed": 1.1,
+      "max_hp": 0.9,
+      "phys_def": 0.9
+    },
+    "flat": {},
+    "names": {
+      "male": [
+        "Pip",
+        "Wren",
+        "Fennic",
+        "Tolliver",
+        "Bramble",
+        "Nim"
+      ],
+      "female": [
+        "Tinka",
+        "Luma",
+        "Pixie",
+        "Willow",
+        "Aster",
+        "Mabeline"
+      ]
+    },
+    "balance_status": "draft"
+  }
+]

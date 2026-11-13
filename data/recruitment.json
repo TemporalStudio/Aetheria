@@ -1,0 +1,43 @@
+[
+  {
+    "id": "RC-GOLD",
+    "name": "Gold Recruitment",
+    "cost": {
+      "gold": 1000
+    },
+    "star_min": 1,
+    "star_max": 3,
+    "guaranteed": false
+  },
+  {
+    "id": "RC-GEM",
+    "name": "Gem Recruitment",
+    "cost": {
+      "gems": 100
+    },
+    "star_min": 1,
+    "star_max": 4,
+    "guaranteed": false
+  },
+  {
+    "id": "RC-TICKET",
+    "name": "Ticket Recruitment",
+    "cost": {
+      "tickets": 1
+    },
+    "star_min": 2,
+    "star_max": 4,
+    "guaranteed": true
+  },
+  {
+    "id": "RC-SPECIAL",
+    "name": "Special Ticket",
+    "cost": {
+      "special_tickets": 1
+    },
+    "star_min": 5,
+    "star_max": 5,
+    "guaranteed": true,
+    "label": "Legendary Mythic"
+  }
+]

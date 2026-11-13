@@ -1,0 +1,22 @@
+{
+  "boss": [
+    "{name} stood against {killer} so the others could live.",
+    "Against {killer}, {name} did not step back.",
+    "{name} fell at {place}. The Tower remembers.",
+    "A hero's last battle: {name} versus {killer}.",
+    "{killer} won that day, but {name} was never afraid."
+  ],
+  "enemy": [
+    "Here rests {name}. The road ended at {place}.",
+    "{name} fell, and Aetheria remembers.",
+    "Not every battle is won. {name} is still a legend.",
+    "Brave to the end: {name}.",
+    "{name}, who walked the Tower and did not walk back."
+  ],
+  "status": [
+    "{name} fought on until the very end.",
+    "{name} was claimed by a quiet enemy, but is not forgotten.",
+    "The flames faded. {name} did not.",
+    "Rest now, {name}. The battle is over."
+  ]
+}

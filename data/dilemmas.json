@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "MD-001",
+    "scenario": "Shelter",
+    "title": "Shelter Request",
+    "text": "Travelers arrive at dawn, begging for shelter in town.",
+    "choices": [
+      {
+        "label": "Take them in",
+        "result": "The travelers are grateful. The town feels warmer, though some residents are uneasy.",
+        "effects": {
+          "happiness": 4,
+          "fear": 2,
+          "gold": -200
+        }
+      },
+      {
+        "label": "Turn them away",
+        "result": "The travelers leave quietly. Guilt lingers in the square.",
+        "effects": {
+          "happiness": -3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-002",
+    "scenario": "Shelter",
+    "title": "Shelter Request",
+    "text": "Travelers arrive at dusk, begging for shelter in town.",
+    "choices": [
+      {
+        "label": "Take them in",
+        "result": "The travelers are grateful. The town feels warmer, though some residents are uneasy.",
+        "effects": {
+          "happiness": 4,
+          "fear": 2,
+          "gold": -220
+        }
+      },
+      {
+        "label": "Turn them away",
+        "result": "The travelers leave quietly. Guilt lingers in the square.",
+        "effects": {
+          "happiness": -3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-003",
+    "scenario": "Shelter",
+    "title": "Shelter Request",
+    "text": "Travelers arrive on market day, begging for shelter in town.",
+    "choices": [
+      {
+        "label": "Take them in",
+        "result": "The travelers are grateful. The town feels warmer, though some residents are uneasy.",
+        "effects": {
+          "happiness": 4,
+          "fear": 2,
+          "gold": -240
+        }
+      },
+      {
+        "label": "Turn them away",
+        "result": "The travelers leave quietly. Guilt lingers in the square.",
+        "effects": {
+          "happiness": -3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-004",
+    "scenario": "Shelter",
+    "title": "Shelter Request",
+    "text": "Travelers arrive in the middle of heavy rain, begging for shelter in town.",
+    "choices": [
+      {
+        "label": "Take them in",
+        "result": "The travelers are grateful. The town feels warmer, though some residents are uneasy.",
+        "effects": {
+          "happiness": 4,
+          "fear": 2,
+          "gold": -260
+        }
+      },
+      {
+        "label": "Turn them away",
+        "result": "The travelers leave quietly. Guilt lingers in the square.",
+        "effects": {
+          "happiness": -3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-005",
+    "scenario": "Shelter",
+    "title": "Shelter Request",
+    "text": "Travelers arrive the day after a victory at the Tower, begging for shelter in town.",
+    "choices": [
+      {
+        "label": "Take them in",
+        "result": "The travelers are grateful. The town feels warmer, though some residents are uneasy.",
+        "effects": {
+          "happiness": 4,
+          "fear": 2,
+          "gold": -280
+        }
+      },
+      {
+        "label": "Turn them away",
+        "result": "The travelers leave quietly. Guilt lingers in the square.",
+        "effects": {
+          "happiness": -3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-006",
+    "scenario": "Rations",
+    "title": "Food Shortage",
+    "text": "The storehouse runs low at dawn, and people are whispering.",
+    "choices": [
+      {
+        "label": "Share the rations",
+        "result": "Everyone eats a little less, but nobody goes hungry.",
+        "effects": {
+          "happiness": 3,
+          "gold": -300
+        }
+      },
+      {
+        "label": "Enforce strict rationing",
+        "result": "Order is kept, but tempers are short.",
+        "effects": {
+          "happiness": -2,
+          "fear": 2
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-007",
+    "scenario": "Rations",
+    "title": "Food Shortage",
+    "text": "The storehouse runs low at dusk, and people are whispering.",
+    "choices": [
+      {
+        "label": "Share the rations",
+        "result": "Everyone eats a little less, but nobody goes hungry.",
+        "effects": {
+          "happiness": 3,
+          "gold": -330
+        }
+      },
+      {
+        "label": "Enforce strict rationing",
+        "result": "Order is kept, but tempers are short.",
+        "effects": {
+          "happiness": -2,
+          "fear": 2
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-008",
+    "scenario": "Rations",
+    "title": "Food Shortage",
+    "text": "The storehouse runs low on market day, and people are whispering.",
+    "choices": [
+      {
+        "label": "Share the rations",
+        "result": "Everyone eats a little less, but nobody goes hungry.",
+        "effects": {
+          "happiness": 3,
+          "gold": -360
+        }
+      },
+      {
+        "label": "Enforce strict rationing",
+        "result": "Order is kept, but tempers are short.",
+        "effects": {
+          "happiness": -2,
+          "fear": 2
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-009",
+    "scenario": "Rations",
+    "title": "Food Shortage",
+    "text": "The storehouse runs low in the middle of heavy rain, and people are whispering.",
+    "choices": [
+      {
+        "label": "Share the rations",
+        "result": "Everyone eats a little less, but nobody goes hungry.",
+        "effects": {
+          "happiness": 3,
+          "gold": -390
+        }
+      },
+      {
+        "label": "Enforce strict rationing",
+        "result": "Order is kept, but tempers are short.",
+        "effects": {
+          "happiness": -2,
+          "fear": 2
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-010",
+    "scenario": "Rations",
+    "title": "Food Shortage",
+    "text": "The storehouse runs low the day after a victory at the Tower, and people are whispering.",
+    "choices": [
+      {
+        "label": "Share the rations",
+        "result": "Everyone eats a little less, but nobody goes hungry.",
+        "effects": {
+          "happiness": 3,
+          "gold": -420
+        }
+      },
+      {
+        "label": "Enforce strict rationing",
+        "result": "Order is kept, but tempers are short.",
+        "effects": {
+          "happiness": -2,
+          "fear": 2
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-011",
+    "scenario": "Monsters",
+    "title": "Rumors of Monsters",
+    "text": "A frightened scout reports monster tracks near town at dawn.",
+    "choices": [
+      {
+        "label": "Send a patrol",
+        "result": "The patrol finds little, but the town feels safer.",
+        "effects": {
+          "fear": -3,
+          "hp_pct_all": -0.05
+        }
+      },
+      {
+        "label": "Ignore the rumor",
+        "result": "Nothing happens yet, but the whispers spread.",
+        "effects": {
+          "fear": 4
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-012",
+    "scenario": "Monsters",
+    "title": "Rumors of Monsters",
+    "text": "A frightened scout reports monster tracks near town at dusk.",
+    "choices": [
+      {
+        "label": "Send a patrol",
+        "result": "The patrol finds little, but the town feels safer.",
+        "effects": {
+          "fear": -3,
+          "hp_pct_all": -0.05
+        }
+      },
+      {
+        "label": "Ignore the rumor",
+        "result": "Nothing happens yet, but the whispers spread.",
+        "effects": {
+          "fear": 4
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-013",
+    "scenario": "Monsters",
+    "title": "Rumors of Monsters",
+    "text": "A frightened scout reports monster tracks near town on market day.",
+    "choices": [
+      {
+        "label": "Send a patrol",
+        "result": "The patrol finds little, but the town feels safer.",
+        "effects": {
+          "fear": -3,
+          "hp_pct_all": -0.05
+        }
+      },
+      {
+        "label": "Ignore the rumor",
+        "result": "Nothing happens yet, but the whispers spread.",
+        "effects": {
+          "fear": 4
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-014",
+    "scenario": "Monsters",
+    "title": "Rumors of Monsters",
+    "text": "A frightened scout reports monster tracks near town in the middle of heavy rain.",
+    "choices": [
+      {
+        "label": "Send a patrol",
+        "result": "The patrol finds little, but the town feels safer.",
+        "effects": {
+          "fear": -3,
+          "hp_pct_all": -0.05
+        }
+      },
+      {
+        "label": "Ignore the rumor",
+        "result": "Nothing happens yet, but the whispers spread.",
+        "effects": {
+          "fear": 4
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-015",
+    "scenario": "Monsters",
+    "title": "Rumors of Monsters",
+    "text": "A frightened scout reports monster tracks near town the day after a victory at the Tower.",
+    "choices": [
+      {
+        "label": "Send a patrol",
+        "result": "The patrol finds little, but the town feels safer.",
+        "effects": {
+          "fear": -3,
+          "hp_pct_all": -0.05
+        }
+      },
+      {
+        "label": "Ignore the rumor",
+        "result": "Nothing happens yet, but the whispers spread.",
+        "effects": {
+          "fear": 4
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-016",
+    "scenario": "Merchant",
+    "title": "Suspicious Merchant",
+    "text": "A merchant offers cheap goods at dawn. The prices seem too good.",
+    "choices": [
+      {
+        "label": "Buy the goods",
+        "result": "The goods are decent, but you feel watched.",
+        "effects": {
+          "happiness": 2,
+          "fear": 1,
+          "gold": -500
+        }
+      },
+      {
+        "label": "Refuse the deal",
+        "result": "The merchant shrugs and leaves. People grumble.",
+        "effects": {
+          "happiness": -1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-017",
+    "scenario": "Merchant",
+    "title": "Suspicious Merchant",
+    "text": "A merchant offers cheap goods at dusk. The prices seem too good.",
+    "choices": [
+      {
+        "label": "Buy the goods",
+        "result": "The goods are decent, but you feel watched.",
+        "effects": {
+          "happiness": 2,
+          "fear": 1,
+          "gold": -550
+        }
+      },
+      {
+        "label": "Refuse the deal",
+        "result": "The merchant shrugs and leaves. People grumble.",
+        "effects": {
+          "happiness": -1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-018",
+    "scenario": "Merchant",
+    "title": "Suspicious Merchant",
+    "text": "A merchant offers cheap goods on market day. The prices seem too good.",
+    "choices": [
+      {
+        "label": "Buy the goods",
+        "result": "The goods are decent, but you feel watched.",
+        "effects": {
+          "happiness": 2,
+          "fear": 1,
+          "gold": -600
+        }
+      },
+      {
+        "label": "Refuse the deal",
+        "result": "The merchant shrugs and leaves. People grumble.",
+        "effects": {
+          "happiness": -1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-019",
+    "scenario": "Merchant",
+    "title": "Suspicious Merchant",
+    "text": "A merchant offers cheap goods in the middle of heavy rain. The prices seem too good.",
+    "choices": [
+      {
+        "label": "Buy the goods",
+        "result": "The goods are decent, but you feel watched.",
+        "effects": {
+          "happiness": 2,
+          "fear": 1,
+          "gold": -650
+        }
+      },
+      {
+        "label": "Refuse the deal",
+        "result": "The merchant shrugs and leaves. People grumble.",
+        "effects": {
+          "happiness": -1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-020",
+    "scenario": "Merchant",
+    "title": "Suspicious Merchant",
+    "text": "A merchant offers cheap goods the day after a victory at the Tower. The prices seem too good.",
+    "choices": [
+      {
+        "label": "Buy the goods",
+        "result": "The goods are decent, but you feel watched.",
+        "effects": {
+          "happiness": 2,
+          "fear": 1,
+          "gold": -700
+        }
+      },
+      {
+        "label": "Refuse the deal",
+        "result": "The merchant shrugs and leaves. People grumble.",
+        "effects": {
+          "happiness": -1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-021",
+    "scenario": "Quarrel",
+    "title": "A Bitter Quarrel",
+    "text": "Two residents come to blows at dawn over a petty debt.",
+    "choices": [
+      {
+        "label": "Mediate",
+        "result": "Both sides calm down and shake hands.",
+        "effects": {
+          "happiness": 2,
+          "fear": -1
+        }
+      },
+      {
+        "label": "Let them settle it",
+        "result": "The fight ends badly and leaves a sour mood.",
+        "effects": {
+          "happiness": -2,
+          "fear": 1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-022",
+    "scenario": "Quarrel",
+    "title": "A Bitter Quarrel",
+    "text": "Two residents come to blows at dusk over a petty debt.",
+    "choices": [
+      {
+        "label": "Mediate",
+        "result": "Both sides calm down and shake hands.",
+        "effects": {
+          "happiness": 2,
+          "fear": -1
+        }
+      },
+      {
+        "label": "Let them settle it",
+        "result": "The fight ends badly and leaves a sour mood.",
+        "effects": {
+          "happiness": -2,
+          "fear": 1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-023",
+    "scenario": "Quarrel",
+    "title": "A Bitter Quarrel",
+    "text": "Two residents come to blows on market day over a petty debt.",
+    "choices": [
+      {
+        "label": "Mediate",
+        "result": "Both sides calm down and shake hands.",
+        "effects": {
+          "happiness": 2,
+          "fear": -1
+        }
+      },
+      {
+        "label": "Let them settle it",
+        "result": "The fight ends badly and leaves a sour mood.",
+        "effects": {
+          "happiness": -2,
+          "fear": 1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-024",
+    "scenario": "Quarrel",
+    "title": "A Bitter Quarrel",
+    "text": "Two residents come to blows in the middle of heavy rain over a petty debt.",
+    "choices": [
+      {
+        "label": "Mediate",
+        "result": "Both sides calm down and shake hands.",
+        "effects": {
+          "happiness": 2,
+          "fear": -1
+        }
+      },
+      {
+        "label": "Let them settle it",
+        "result": "The fight ends badly and leaves a sour mood.",
+        "effects": {
+          "happiness": -2,
+          "fear": 1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-025",
+    "scenario": "Quarrel",
+    "title": "A Bitter Quarrel",
+    "text": "Two residents come to blows the day after a victory at the Tower over a petty debt.",
+    "choices": [
+      {
+        "label": "Mediate",
+        "result": "Both sides calm down and shake hands.",
+        "effects": {
+          "happiness": 2,
+          "fear": -1
+        }
+      },
+      {
+        "label": "Let them settle it",
+        "result": "The fight ends badly and leaves a sour mood.",
+        "effects": {
+          "happiness": -2,
+          "fear": 1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-026",
+    "scenario": "Festival",
+    "title": "Festival Request",
+    "text": "The townsfolk ask for a small festival at dawn.",
+    "choices": [
+      {
+        "label": "Hold the festival",
+        "result": "Music and laughter fill the square.",
+        "effects": {
+          "happiness": 6,
+          "fear": -3,
+          "gold": -400
+        }
+      },
+      {
+        "label": "Decline",
+        "result": "The square stays quiet and the mood sinks.",
+        "effects": {
+          "happiness": -3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-027",
+    "scenario": "Festival",
+    "title": "Festival Request",
+    "text": "The townsfolk ask for a small festival at dusk.",
+    "choices": [
+      {
+        "label": "Hold the festival",
+        "result": "Music and laughter fill the square.",
+        "effects": {
+          "happiness": 6,
+          "fear": -3,
+          "gold": -440
+        }
+      },
+      {
+        "label": "Decline",
+        "result": "The square stays quiet and the mood sinks.",
+        "effects": {
+          "happiness": -3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-028",
+    "scenario": "Festival",
+    "title": "Festival Request",
+    "text": "The townsfolk ask for a small festival on market day.",
+    "choices": [
+      {
+        "label": "Hold the festival",
+        "result": "Music and laughter fill the square.",
+        "effects": {
+          "happiness": 6,
+          "fear": -3,
+          "gold": -480
+        }
+      },
+      {
+        "label": "Decline",
+        "result": "The square stays quiet and the mood sinks.",
+        "effects": {
+          "happiness": -3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-029",
+    "scenario": "Festival",
+    "title": "Festival Request",
+    "text": "The townsfolk ask for a small festival in the middle of heavy rain.",
+    "choices": [
+      {
+        "label": "Hold the festival",
+        "result": "Music and laughter fill the square.",
+        "effects": {
+          "happiness": 6,
+          "fear": -3,
+          "gold": -520
+        }
+      },
+      {
+        "label": "Decline",
+        "result": "The square stays quiet and the mood sinks.",
+        "effects": {
+          "happiness": -3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-030",
+    "scenario": "Festival",
+    "title": "Festival Request",
+    "text": "The townsfolk ask for a small festival the day after a victory at the Tower.",
+    "choices": [
+      {
+        "label": "Hold the festival",
+        "result": "Music and laughter fill the square.",
+        "effects": {
+          "happiness": 6,
+          "fear": -3,
+          "gold": -560
+        }
+      },
+      {
+        "label": "Decline",
+        "result": "The square stays quiet and the mood sinks.",
+        "effects": {
+          "happiness": -3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-031",
+    "scenario": "Wounded",
+    "title": "Wounded Traveler",
+    "text": "A wounded traveler collapses at the gate at dawn.",
+    "choices": [
+      {
+        "label": "Treat the wounds",
+        "result": "The traveler recovers and the town takes pride in your kindness.",
+        "effects": {
+          "happiness": 3,
+          "gold": -150
+        }
+      },
+      {
+        "label": "Send them away",
+        "result": "The gate closes. Few people meet your eyes afterwards.",
+        "effects": {
+          "happiness": -2,
+          "fear": 1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-032",
+    "scenario": "Wounded",
+    "title": "Wounded Traveler",
+    "text": "A wounded traveler collapses at the gate at dusk.",
+    "choices": [
+      {
+        "label": "Treat the wounds",
+        "result": "The traveler recovers and the town takes pride in your kindness.",
+        "effects": {
+          "happiness": 3,
+          "gold": -160
+        }
+      },
+      {
+        "label": "Send them away",
+        "result": "The gate closes. Few people meet your eyes afterwards.",
+        "effects": {
+          "happiness": -2,
+          "fear": 1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-033",
+    "scenario": "Wounded",
+    "title": "Wounded Traveler",
+    "text": "A wounded traveler collapses at the gate on market day.",
+    "choices": [
+      {
+        "label": "Treat the wounds",
+        "result": "The traveler recovers and the town takes pride in your kindness.",
+        "effects": {
+          "happiness": 3,
+          "gold": -180
+        }
+      },
+      {
+        "label": "Send them away",
+        "result": "The gate closes. Few people meet your eyes afterwards.",
+        "effects": {
+          "happiness": -2,
+          "fear": 1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-034",
+    "scenario": "Wounded",
+    "title": "Wounded Traveler",
+    "text": "A wounded traveler collapses at the gate in the middle of heavy rain.",
+    "choices": [
+      {
+        "label": "Treat the wounds",
+        "result": "The traveler recovers and the town takes pride in your kindness.",
+        "effects": {
+          "happiness": 3,
+          "gold": -200
+        }
+      },
+      {
+        "label": "Send them away",
+        "result": "The gate closes. Few people meet your eyes afterwards.",
+        "effects": {
+          "happiness": -2,
+          "fear": 1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-035",
+    "scenario": "Wounded",
+    "title": "Wounded Traveler",
+    "text": "A wounded traveler collapses at the gate the day after a victory at the Tower.",
+    "choices": [
+      {
+        "label": "Treat the wounds",
+        "result": "The traveler recovers and the town takes pride in your kindness.",
+        "effects": {
+          "happiness": 3,
+          "gold": -210
+        }
+      },
+      {
+        "label": "Send them away",
+        "result": "The gate closes. Few people meet your eyes afterwards.",
+        "effects": {
+          "happiness": -2,
+          "fear": 1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-036",
+    "scenario": "Noise",
+    "title": "Strange Noise",
+    "text": "A strange noise echoes from the outskirts at dawn.",
+    "choices": [
+      {
+        "label": "Investigate",
+        "result": "It was only a wild animal, but your Heroes are a bit worn out.",
+        "effects": {
+          "fear": -2,
+          "hp_pct_all": -0.05
+        }
+      },
+      {
+        "label": "Lock the doors",
+        "result": "The night passes, but fear lingers.",
+        "effects": {
+          "fear": 3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-037",
+    "scenario": "Noise",
+    "title": "Strange Noise",
+    "text": "A strange noise echoes from the outskirts at dusk.",
+    "choices": [
+      {
+        "label": "Investigate",
+        "result": "It was only a wild animal, but your Heroes are a bit worn out.",
+        "effects": {
+          "fear": -2,
+          "hp_pct_all": -0.05
+        }
+      },
+      {
+        "label": "Lock the doors",
+        "result": "The night passes, but fear lingers.",
+        "effects": {
+          "fear": 3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-038",
+    "scenario": "Noise",
+    "title": "Strange Noise",
+    "text": "A strange noise echoes from the outskirts on market day.",
+    "choices": [
+      {
+        "label": "Investigate",
+        "result": "It was only a wild animal, but your Heroes are a bit worn out.",
+        "effects": {
+          "fear": -2,
+          "hp_pct_all": -0.05
+        }
+      },
+      {
+        "label": "Lock the doors",
+        "result": "The night passes, but fear lingers.",
+        "effects": {
+          "fear": 3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-039",
+    "scenario": "Noise",
+    "title": "Strange Noise",
+    "text": "A strange noise echoes from the outskirts in the middle of heavy rain.",
+    "choices": [
+      {
+        "label": "Investigate",
+        "result": "It was only a wild animal, but your Heroes are a bit worn out.",
+        "effects": {
+          "fear": -2,
+          "hp_pct_all": -0.05
+        }
+      },
+      {
+        "label": "Lock the doors",
+        "result": "The night passes, but fear lingers.",
+        "effects": {
+          "fear": 3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-040",
+    "scenario": "Noise",
+    "title": "Strange Noise",
+    "text": "A strange noise echoes from the outskirts the day after a victory at the Tower.",
+    "choices": [
+      {
+        "label": "Investigate",
+        "result": "It was only a wild animal, but your Heroes are a bit worn out.",
+        "effects": {
+          "fear": -2,
+          "hp_pct_all": -0.05
+        }
+      },
+      {
+        "label": "Lock the doors",
+        "result": "The night passes, but fear lingers.",
+        "effects": {
+          "fear": 3
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-041",
+    "scenario": "Orphans",
+    "title": "Children in the Square",
+    "text": "A group of lost children is found at dawn.",
+    "choices": [
+      {
+        "label": "Take them into care",
+        "result": "The children bring life back to the town.",
+        "effects": {
+          "happiness": 4,
+          "gold": -300
+        }
+      },
+      {
+        "label": "Send them to a neighboring town",
+        "result": "It is the practical choice, yet it weighs on people.",
+        "effects": {
+          "happiness": -2
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-042",
+    "scenario": "Orphans",
+    "title": "Children in the Square",
+    "text": "A group of lost children is found at dusk.",
+    "choices": [
+      {
+        "label": "Take them into care",
+        "result": "The children bring life back to the town.",
+        "effects": {
+          "happiness": 4,
+          "gold": -330
+        }
+      },
+      {
+        "label": "Send them to a neighboring town",
+        "result": "It is the practical choice, yet it weighs on people.",
+        "effects": {
+          "happiness": -2
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-043",
+    "scenario": "Orphans",
+    "title": "Children in the Square",
+    "text": "A group of lost children is found on market day.",
+    "choices": [
+      {
+        "label": "Take them into care",
+        "result": "The children bring life back to the town.",
+        "effects": {
+          "happiness": 4,
+          "gold": -360
+        }
+      },
+      {
+        "label": "Send them to a neighboring town",
+        "result": "It is the practical choice, yet it weighs on people.",
+        "effects": {
+          "happiness": -2
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-044",
+    "scenario": "Orphans",
+    "title": "Children in the Square",
+    "text": "A group of lost children is found in the middle of heavy rain.",
+    "choices": [
+      {
+        "label": "Take them into care",
+        "result": "The children bring life back to the town.",
+        "effects": {
+          "happiness": 4,
+          "gold": -390
+        }
+      },
+      {
+        "label": "Send them to a neighboring town",
+        "result": "It is the practical choice, yet it weighs on people.",
+        "effects": {
+          "happiness": -2
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-045",
+    "scenario": "Orphans",
+    "title": "Children in the Square",
+    "text": "A group of lost children is found the day after a victory at the Tower.",
+    "choices": [
+      {
+        "label": "Take them into care",
+        "result": "The children bring life back to the town.",
+        "effects": {
+          "happiness": 4,
+          "gold": -420
+        }
+      },
+      {
+        "label": "Send them to a neighboring town",
+        "result": "It is the practical choice, yet it weighs on people.",
+        "effects": {
+          "happiness": -2
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-046",
+    "scenario": "Thief",
+    "title": "Thief Caught",
+    "text": "A thief is caught red-handed at dawn.",
+    "choices": [
+      {
+        "label": "Punish harshly",
+        "result": "Crime stops, but so do many smiles.",
+        "effects": {
+          "fear": 3,
+          "happiness": -2
+        }
+      },
+      {
+        "label": "Show mercy",
+        "result": "The thief swears to repay the town.",
+        "effects": {
+          "happiness": 2,
+          "fear": -1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-047",
+    "scenario": "Thief",
+    "title": "Thief Caught",
+    "text": "A thief is caught red-handed at dusk.",
+    "choices": [
+      {
+        "label": "Punish harshly",
+        "result": "Crime stops, but so do many smiles.",
+        "effects": {
+          "fear": 3,
+          "happiness": -2
+        }
+      },
+      {
+        "label": "Show mercy",
+        "result": "The thief swears to repay the town.",
+        "effects": {
+          "happiness": 2,
+          "fear": -1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-048",
+    "scenario": "Thief",
+    "title": "Thief Caught",
+    "text": "A thief is caught red-handed on market day.",
+    "choices": [
+      {
+        "label": "Punish harshly",
+        "result": "Crime stops, but so do many smiles.",
+        "effects": {
+          "fear": 3,
+          "happiness": -2
+        }
+      },
+      {
+        "label": "Show mercy",
+        "result": "The thief swears to repay the town.",
+        "effects": {
+          "happiness": 2,
+          "fear": -1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-049",
+    "scenario": "Thief",
+    "title": "Thief Caught",
+    "text": "A thief is caught red-handed in the middle of heavy rain.",
+    "choices": [
+      {
+        "label": "Punish harshly",
+        "result": "Crime stops, but so do many smiles.",
+        "effects": {
+          "fear": 3,
+          "happiness": -2
+        }
+      },
+      {
+        "label": "Show mercy",
+        "result": "The thief swears to repay the town.",
+        "effects": {
+          "happiness": 2,
+          "fear": -1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  },
+  {
+    "id": "MD-050",
+    "scenario": "Thief",
+    "title": "Thief Caught",
+    "text": "A thief is caught red-handed the day after a victory at the Tower.",
+    "choices": [
+      {
+        "label": "Punish harshly",
+        "result": "Crime stops, but so do many smiles.",
+        "effects": {
+          "fear": 3,
+          "happiness": -2
+        }
+      },
+      {
+        "label": "Show mercy",
+        "result": "The thief swears to repay the town.",
+        "effects": {
+          "happiness": 2,
+          "fear": -1
+        }
+      }
+    ],
+    "balance_status": "draft"
+  }
+]

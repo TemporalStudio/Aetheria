@@ -1,0 +1,94 @@
+[
+  {
+    "id": "MED-001",
+    "name": "Potion S",
+    "type": "heal_hp",
+    "effect": {
+      "hp_flat": 100
+    },
+    "can_revive": false,
+    "balance_status": "draft"
+  },
+  {
+    "id": "MED-002",
+    "name": "Potion M",
+    "type": "heal_hp",
+    "effect": {
+      "hp_flat": 250
+    },
+    "can_revive": false,
+    "balance_status": "draft"
+  },
+  {
+    "id": "MED-003",
+    "name": "Potion L",
+    "type": "heal_hp",
+    "effect": {
+      "hp_flat": 500
+    },
+    "can_revive": false,
+    "balance_status": "draft"
+  },
+  {
+    "id": "MED-004",
+    "name": "Ether S",
+    "type": "restore_sp",
+    "effect": {
+      "sp_flat": 3
+    },
+    "can_revive": false,
+    "balance_status": "draft"
+  },
+  {
+    "id": "MED-005",
+    "name": "Ether M",
+    "type": "restore_sp",
+    "effect": {
+      "sp_flat": 6
+    },
+    "can_revive": false,
+    "balance_status": "draft"
+  },
+  {
+    "id": "MED-006",
+    "name": "Elixir",
+    "type": "heal_hp_sp",
+    "effect": {
+      "hp_percent": 0.4,
+      "sp_flat": 3
+    },
+    "can_revive": false,
+    "balance_status": "draft"
+  },
+  {
+    "id": "MED-007",
+    "name": "Antidote",
+    "type": "cleanse",
+    "effect": {
+      "cleanse": "all_debuff"
+    },
+    "can_revive": false,
+    "balance_status": "draft"
+  },
+  {
+    "id": "MED-008",
+    "name": "Barrier Salve",
+    "type": "shield",
+    "effect": {
+      "shield_hp_percent": 0.1,
+      "turns": 3
+    },
+    "can_revive": false,
+    "balance_status": "draft"
+  },
+  {
+    "id": "MED-009",
+    "name": "Adrenaline",
+    "type": "gain_ug",
+    "effect": {
+      "ug_flat": 30
+    },
+    "can_revive": false,
+    "balance_status": "draft"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "wallet": {"gold": 5000, "gems": 200, "tickets": 2, "special_tickets": 0},
+  "items": {"MED-001": 3, "MED-004": 2},
+  "free_recruits": [{"portal": "RC-GOLD", "count": 3}],
+  "town": {"happiness": 50, "fear": 20},
+  "start_day": 1,
+  "start_floor": 1,
+  "balance_status": "draft"
+}

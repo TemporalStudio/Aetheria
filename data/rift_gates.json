@@ -1,0 +1,92 @@
+[
+  {
+    "id": "GATE-1",
+    "gate": 1,
+    "boss": "ENM-RFT-001",
+    "rank_min": "D",
+    "unlock_requires": null,
+    "rewards": {
+      "gold": 3000,
+      "drops": [
+        {
+          "item": "MAT-101",
+          "chance": 1.0,
+          "qty": 3
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "GATE-2",
+    "gate": 2,
+    "boss": "ENM-RFT-002",
+    "rank_min": "C",
+    "unlock_requires": "GATE-1",
+    "rewards": {
+      "gold": 6000,
+      "drops": [
+        {
+          "item": "MAT-102",
+          "chance": 1.0,
+          "qty": 4
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "GATE-3",
+    "gate": 3,
+    "boss": "ENM-RFT-003",
+    "rank_min": "B",
+    "unlock_requires": "GATE-2",
+    "rewards": {
+      "gold": 9000,
+      "drops": [
+        {
+          "item": "MAT-103",
+          "chance": 1.0,
+          "qty": 5
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "GATE-4",
+    "gate": 4,
+    "boss": "ENM-RFT-004",
+    "rank_min": "A",
+    "unlock_requires": "GATE-3",
+    "rewards": {
+      "gold": 12000,
+      "drops": [
+        {
+          "item": "MAT-104",
+          "chance": 1.0,
+          "qty": 6
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "GATE-5",
+    "gate": 5,
+    "boss": "ENM-RFT-005",
+    "rank_min": "S",
+    "unlock_requires": "GATE-4",
+    "rewards": {
+      "gold": 15000,
+      "drops": [
+        {
+          "item": "MAT-105",
+          "chance": 1.0,
+          "qty": 7
+        }
+      ]
+    },
+    "balance_status": "draft"
+  }
+]

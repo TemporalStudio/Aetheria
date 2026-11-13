@@ -1,0 +1,272 @@
+[
+  {
+    "id": "TR-001",
+    "name": "Magma Heart",
+    "element": "Fire",
+    "stat": "phys_atk",
+    "value": 0.1,
+    "description": "Fire skills hit harder.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-002",
+    "name": "Tempest Soul",
+    "element": "Wind",
+    "stat": "speed",
+    "value": 0.1,
+    "description": "Faster action speed.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-003",
+    "name": "Eclipse Balance",
+    "element": "Dark",
+    "stat": "magic_atk",
+    "value": 0.08,
+    "description": "Power from balance of light and dark.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-004",
+    "name": "Tidal Calm",
+    "element": "Water",
+    "stat": "magic_def",
+    "value": 0.1,
+    "description": "Resists magic.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-005",
+    "name": "Stone Will",
+    "element": "Earth",
+    "stat": "phys_def",
+    "value": 0.1,
+    "description": "Sturdy body.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-006",
+    "name": "Radiant Spirit",
+    "element": "Light",
+    "stat": "heal_power",
+    "value": 0.12,
+    "description": "Heals more.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-007",
+    "name": "Shadow Veil",
+    "element": "Dark",
+    "stat": "evasion",
+    "value": 0.08,
+    "description": "Harder to hit.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-008",
+    "name": "Keen Eye",
+    "element": "Normal",
+    "stat": "accuracy",
+    "value": 0.1,
+    "description": "Better accuracy.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-009",
+    "name": "Lucky Strike",
+    "element": "Normal",
+    "stat": "crit",
+    "value": 0.08,
+    "description": "Higher critical chance.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-010",
+    "name": "Iron Body",
+    "element": "Normal",
+    "stat": "max_hp",
+    "value": 0.1,
+    "description": "More HP.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-011",
+    "name": "Sharp Mind",
+    "element": "Normal",
+    "stat": "magic_atk",
+    "value": 0.1,
+    "description": "Stronger magic.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-012",
+    "name": "Brute Force",
+    "element": "Normal",
+    "stat": "phys_atk",
+    "value": 0.1,
+    "description": "Stronger attacks.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-013",
+    "name": "Swift Feet",
+    "element": "Normal",
+    "stat": "speed",
+    "value": 0.08,
+    "description": "Quick mover.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-014",
+    "name": "Resilient",
+    "element": "Normal",
+    "stat": "max_hp",
+    "value": 0.08,
+    "description": "Endures longer.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-015",
+    "name": "Efficient Caster",
+    "element": "Normal",
+    "stat": "sp_cost",
+    "value": -0.1,
+    "description": "Skills cost less SP.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-016",
+    "name": "Fast Charger",
+    "element": "Normal",
+    "stat": "ug_gain",
+    "value": 0.15,
+    "description": "Ultimate Gauge fills faster.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-017",
+    "name": "Calm Mind",
+    "element": "Normal",
+    "stat": "fear_resist",
+    "value": 0.2,
+    "description": "Resists Fear.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-018",
+    "name": "Cheerful",
+    "element": "Normal",
+    "stat": "happiness_gain",
+    "value": 0.15,
+    "description": "Raises Happiness faster.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-019",
+    "name": "Hardworker",
+    "element": "Normal",
+    "stat": "facility_efficiency",
+    "value": 0.1,
+    "description": "Better facility work.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-020",
+    "name": "Quick Learner",
+    "element": "Normal",
+    "stat": "exp_gain",
+    "value": 0.1,
+    "description": "Gains more EXP.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-021",
+    "name": "Flame Dancer",
+    "element": "Fire",
+    "stat": "evasion",
+    "value": 0.06,
+    "description": "Agile in fire.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-022",
+    "name": "Frost Heart",
+    "element": "Water",
+    "stat": "phys_def",
+    "value": 0.08,
+    "description": "Cold resilience.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-023",
+    "name": "Sky Walker",
+    "element": "Wind",
+    "stat": "evasion",
+    "value": 0.1,
+    "description": "Nimble.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-024",
+    "name": "Earth Shaker",
+    "element": "Earth",
+    "stat": "phys_atk",
+    "value": 0.1,
+    "description": "Heavy blows.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-025",
+    "name": "Holy Guard",
+    "element": "Light",
+    "stat": "phys_def",
+    "value": 0.08,
+    "description": "Blessed defense.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-026",
+    "name": "Night Hunter",
+    "element": "Dark",
+    "stat": "crit",
+    "value": 0.1,
+    "description": "Deadly in the dark.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-027",
+    "name": "Medic's Touch",
+    "element": "Normal",
+    "stat": "medical_power",
+    "value": 0.2,
+    "description": "Medical items work better.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-028",
+    "name": "Survivor",
+    "element": "Normal",
+    "stat": "low_hp_def",
+    "value": 0.2,
+    "description": "Tougher at low HP.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-029",
+    "name": "Leader's Aura",
+    "element": "Normal",
+    "stat": "party_atk",
+    "value": 0.05,
+    "description": "Boosts front-line allies.",
+    "balance_status": "draft"
+  },
+  {
+    "id": "TR-030",
+    "name": "Smith's Hand",
+    "element": "Normal",
+    "stat": "craft_success",
+    "value": 0.08,
+    "description": "Crafting bonus at Blacksmith/Magic Tower.",
+    "balance_status": "draft"
+  }
+]

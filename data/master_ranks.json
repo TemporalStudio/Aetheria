@@ -1,0 +1,68 @@
+[
+  {
+    "rank": "F",
+    "floor_min": 1,
+    "floor_max": 9,
+    "title": "New Master"
+  },
+  {
+    "rank": "E",
+    "floor_min": 10,
+    "floor_max": 19,
+    "title": "Tower Initiate"
+  },
+  {
+    "rank": "D",
+    "floor_min": 20,
+    "floor_max": 29,
+    "title": "Tower Adventurer"
+  },
+  {
+    "rank": "C",
+    "floor_min": 30,
+    "floor_max": 39,
+    "title": "Tower Commander"
+  },
+  {
+    "rank": "B",
+    "floor_min": 40,
+    "floor_max": 49,
+    "title": "Tower Strategist"
+  },
+  {
+    "rank": "A",
+    "floor_min": 50,
+    "floor_max": 59,
+    "title": "Tower Lord"
+  },
+  {
+    "rank": "S",
+    "floor_min": 60,
+    "floor_max": 69,
+    "title": "Grand Master"
+  },
+  {
+    "rank": "SS",
+    "floor_min": 70,
+    "floor_max": 79,
+    "title": "Legendary Master"
+  },
+  {
+    "rank": "SSS",
+    "floor_min": 80,
+    "floor_max": 89,
+    "title": "Mythic Master"
+  },
+  {
+    "rank": "EX",
+    "floor_min": 90,
+    "floor_max": 99,
+    "title": "Transcendent Master"
+  },
+  {
+    "rank": "MASTER",
+    "floor_min": 100,
+    "floor_max": 100,
+    "title": "Master of Aetheria"
+  }
+]

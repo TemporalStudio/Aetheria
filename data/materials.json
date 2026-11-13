@@ -1,0 +1,114 @@
+[
+  {
+    "id": "MAT-001",
+    "name": "Iron Ore",
+    "category": "crafting",
+    "source": "dungeon/explore",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-002",
+    "name": "Wood Plank",
+    "category": "crafting",
+    "source": "dungeon/explore",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-003",
+    "name": "Leather Scrap",
+    "category": "crafting",
+    "source": "dungeon/explore",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-004",
+    "name": "Cloth Scrap",
+    "category": "crafting",
+    "source": "dungeon/explore",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-005",
+    "name": "Mana Crystal",
+    "category": "crafting",
+    "source": "dungeon/explore",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-006",
+    "name": "Healing Herb",
+    "category": "crafting",
+    "source": "dungeon/explore",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-007",
+    "name": "Spring Water",
+    "category": "crafting",
+    "source": "dungeon/explore",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-008",
+    "name": "Silver Ingot",
+    "category": "crafting",
+    "source": "dungeon/explore",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-009",
+    "name": "Mythril Shard",
+    "category": "crafting",
+    "source": "dungeon/explore",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-010",
+    "name": "Magic Dust",
+    "category": "crafting",
+    "source": "dungeon/explore",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-011",
+    "name": "Glass Vial",
+    "category": "crafting",
+    "source": "dungeon/explore",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-101",
+    "name": "Gate Sigil I",
+    "category": "star_up",
+    "source": "Rift Star Gate 1",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-102",
+    "name": "Gate Sigil II",
+    "category": "star_up",
+    "source": "Rift Star Gate 2",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-103",
+    "name": "Gate Sigil III",
+    "category": "star_up",
+    "source": "Rift Star Gate 3",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-104",
+    "name": "Gate Sigil IV",
+    "category": "star_up",
+    "source": "Rift Star Gate 4",
+    "balance_status": "draft"
+  },
+  {
+    "id": "MAT-105",
+    "name": "Gate Sigil V",
+    "category": "star_up",
+    "source": "Rift Star Gate 5",
+    "balance_status": "draft"
+  }
+]

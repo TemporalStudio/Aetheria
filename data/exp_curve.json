@@ -1,0 +1,6 @@
+{
+  "formula": "exp_to_next(level) = round(base * level^exponent)",
+  "base": 50,
+  "exponent": 1.6,
+  "balance_status": "draft"
+}

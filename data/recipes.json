@@ -1,0 +1,1248 @@
+[
+  {
+    "id": "RCP-EQ-WPN-001",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-WPN-001",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-WPN-002",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-WPN-002",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-WPN-003",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-WPN-003",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-WPN-004",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-WPN-004",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-002",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-WPN-005",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-WPN-005",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-002",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-WPN-006",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-WPN-006",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-002",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-WPN-007",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-WPN-007",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-002",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-WPN-008",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-WPN-008",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-002",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-WPN-009",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-WPN-009",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-002",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-WPN-010",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-WPN-010",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-WPN-011",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-WPN-011",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-WPN-012",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-WPN-012",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-WPN-013",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-WPN-013",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-WPN-014",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-WPN-014",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-WPN-015",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-WPN-015",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-WPN-016",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-WPN-016",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-002",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-WPN-017",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-WPN-017",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-002",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-WPN-018",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-WPN-018",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-002",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ARM-001",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ARM-001",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-003",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ARM-002",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ARM-002",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-003",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ARM-003",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ARM-003",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-003",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ARM-004",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ARM-004",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ARM-005",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ARM-005",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ARM-006",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ARM-006",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ARM-007",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ARM-007",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-004",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ARM-008",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ARM-008",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-004",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ARM-009",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ARM-009",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-004",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ARM-010",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ARM-010",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ARM-011",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ARM-011",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ARM-012",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ARM-012",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-001",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ARM-013",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ARM-013",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-004",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ARM-014",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ARM-014",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-004",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ARM-015",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ARM-015",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-004",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ARM-016",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ARM-016",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-003",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ARM-017",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ARM-017",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-003",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ARM-018",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ARM-018",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-003",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ACC-001",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ACC-001",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-008",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ACC-002",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ACC-002",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-008",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ACC-003",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ACC-003",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-008",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ACC-004",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ACC-004",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-005",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ACC-005",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ACC-005",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-005",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ACC-006",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ACC-006",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-005",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ACC-007",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ACC-007",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-010",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ACC-008",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ACC-008",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-010",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ACC-009",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ACC-009",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-010",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ACC-010",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ACC-010",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-005",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ACC-011",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ACC-011",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-005",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ACC-012",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ACC-012",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-005",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ACC-013",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ACC-013",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-008",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ACC-014",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ACC-014",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-008",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ACC-015",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ACC-015",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-008",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-EQ-ACC-016",
+    "station": "blacksmith",
+    "facility_level_min": 1,
+    "output": "EQ-ACC-016",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-010",
+        "qty": 3
+      }
+    ],
+    "base_success": 0.9
+  },
+  {
+    "id": "RCP-EQ-ACC-017",
+    "station": "blacksmith",
+    "facility_level_min": 2,
+    "output": "EQ-ACC-017",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-010",
+        "qty": 6
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      }
+    ],
+    "base_success": 0.75
+  },
+  {
+    "id": "RCP-EQ-ACC-018",
+    "station": "blacksmith",
+    "facility_level_min": 3,
+    "output": "EQ-ACC-018",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-010",
+        "qty": 9
+      },
+      {
+        "item": "MAT-008",
+        "qty": 2
+      },
+      {
+        "item": "MAT-009",
+        "qty": 2
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.6
+  },
+  {
+    "id": "RCP-MED-001",
+    "station": "magic_tower",
+    "facility_level_min": 1,
+    "output": "MED-001",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-006",
+        "qty": 2
+      },
+      {
+        "item": "MAT-011",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.95
+  },
+  {
+    "id": "RCP-MED-002",
+    "station": "magic_tower",
+    "facility_level_min": 2,
+    "output": "MED-002",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-006",
+        "qty": 4
+      },
+      {
+        "item": "MAT-007",
+        "qty": 2
+      },
+      {
+        "item": "MAT-011",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.85
+  },
+  {
+    "id": "RCP-MED-003",
+    "station": "magic_tower",
+    "facility_level_min": 3,
+    "output": "MED-003",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-006",
+        "qty": 6
+      },
+      {
+        "item": "MAT-007",
+        "qty": 3
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      },
+      {
+        "item": "MAT-011",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.7
+  },
+  {
+    "id": "RCP-MED-004",
+    "station": "magic_tower",
+    "facility_level_min": 1,
+    "output": "MED-004",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-007",
+        "qty": 2
+      },
+      {
+        "item": "MAT-010",
+        "qty": 1
+      },
+      {
+        "item": "MAT-011",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.95
+  },
+  {
+    "id": "RCP-MED-005",
+    "station": "magic_tower",
+    "facility_level_min": 2,
+    "output": "MED-005",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-007",
+        "qty": 3
+      },
+      {
+        "item": "MAT-010",
+        "qty": 2
+      },
+      {
+        "item": "MAT-011",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.85
+  },
+  {
+    "id": "RCP-MED-006",
+    "station": "magic_tower",
+    "facility_level_min": 3,
+    "output": "MED-006",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-006",
+        "qty": 5
+      },
+      {
+        "item": "MAT-005",
+        "qty": 2
+      },
+      {
+        "item": "MAT-010",
+        "qty": 2
+      },
+      {
+        "item": "MAT-011",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.7
+  },
+  {
+    "id": "RCP-MED-007",
+    "station": "magic_tower",
+    "facility_level_min": 1,
+    "output": "MED-007",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-006",
+        "qty": 2
+      },
+      {
+        "item": "MAT-007",
+        "qty": 1
+      },
+      {
+        "item": "MAT-011",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.95
+  },
+  {
+    "id": "RCP-MED-008",
+    "station": "magic_tower",
+    "facility_level_min": 2,
+    "output": "MED-008",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-005",
+        "qty": 1
+      },
+      {
+        "item": "MAT-010",
+        "qty": 2
+      },
+      {
+        "item": "MAT-011",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.85
+  },
+  {
+    "id": "RCP-MED-009",
+    "station": "magic_tower",
+    "facility_level_min": 2,
+    "output": "MED-009",
+    "output_qty": 1,
+    "inputs": [
+      {
+        "item": "MAT-010",
+        "qty": 3
+      },
+      {
+        "item": "MAT-005",
+        "qty": 1
+      },
+      {
+        "item": "MAT-011",
+        "qty": 1
+      }
+    ],
+    "base_success": 0.85
+  }
+]

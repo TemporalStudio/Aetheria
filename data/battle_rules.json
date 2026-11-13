@@ -1,0 +1,82 @@
+{
+  "max_rounds": 40,
+  "crit_multiplier": 1.5,
+  "damage_variance": 0.05,
+  "back_row_damage_mult": 0.9,
+  "min_hit_chance": 0.1,
+  "team_sp_start": 2,
+  "team_sp_per_basic_attack": 1,
+  "medical_team_sp": 1,
+  "medical_slots_per_party": 3,
+  "hero_sp_per_basic_attack": 1,
+  "ug_max": 100,
+  "ug_per_action": 15,
+  "ug_per_hit_taken": 8,
+  "guard_def_bonus": 0.5,
+  "enemy_front_weight": 2.0,
+  "element": {
+    "advantage": {
+      "Fire": [
+        "Wind"
+      ],
+      "Wind": [
+        "Earth"
+      ],
+      "Earth": [
+        "Water"
+      ],
+      "Water": [
+        "Fire"
+      ],
+      "Light": [
+        "Dark"
+      ],
+      "Dark": [
+        "Light"
+      ]
+    },
+    "strong_mult": 1.25,
+    "weak_mult": 0.8
+  },
+  "enemy_defaults": {
+    "crit": 5,
+    "evasion": 3,
+    "accuracy": 95
+  },
+  "basic_attack_type": {
+    "Attacker": "physical",
+    "Defender": "physical",
+    "Healer": "magic",
+    "Support": "magic"
+  },
+  "ultimate_damage_type": {
+    "Attacker": "physical",
+    "Defender": "magic",
+    "Healer": "magic",
+    "Support": "magic"
+  },
+  "ultimate_fallback": {
+    "Healer": {
+      "heal_percent": 0.4
+    },
+    "Support": {
+      "buff": 0.25,
+      "debuff_speed": -0.3,
+      "debuff_atk": -0.2,
+      "turns": 3
+    },
+    "Defender": {
+      "shield_percent": 0.25,
+      "def_buff": 0.5,
+      "turns": 3
+    }
+  },
+  "ai": {
+    "skill_chance": 0.7,
+    "support_cooldown": 3,
+    "medical_hp_threshold": 0.3,
+    "heal_hp_threshold": 0.5,
+    "enemy_ultimate_every": 3
+  },
+  "balance_status": "draft"
+}

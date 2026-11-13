@@ -1,0 +1,37 @@
+{
+  "max_parties": 20,
+  "party_size": 5,
+  "front_slots": 3,
+  "back_slots": 2,
+  "team_sp_max": 5,
+  "tower_floors": 100,
+  "facility": {
+    "leaders": 1,
+    "min_staff": 1,
+    "max_staff": 2,
+    "ranks": {
+      "F": 1,
+      "D": 2,
+      "B": 3
+    }
+  },
+  "skip_day_report_limit": 50,
+  "moral_dilemma_events": 50,
+  "elements": [
+    "Normal",
+    "Fire",
+    "Water",
+    "Wind",
+    "Earth",
+    "Light",
+    "Dark"
+  ],
+  "roles": [
+    "Attacker",
+    "Defender",
+    "Healer",
+    "Support"
+  ],
+  "hero_max_star": 5,
+  "ultimate_min_star": 4
+}

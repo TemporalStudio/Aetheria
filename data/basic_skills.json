@@ -1,0 +1,762 @@
+[
+  {
+    "id": "BS-NOR-001",
+    "name": "Slash",
+    "element": "Normal",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 0,
+    "power": 100,
+    "damage_type": "physical",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-NOR-002",
+    "name": "Heavy Strike",
+    "element": "Normal",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 2,
+    "power": 160,
+    "damage_type": "physical",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-NOR-003",
+    "name": "Quick Stab",
+    "element": "Normal",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 1,
+    "power": 120,
+    "damage_type": "physical",
+    "effect": {
+      "type": "buff",
+      "stat": "speed",
+      "value": 0.1,
+      "turns": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-NOR-004",
+    "name": "Guard Stance",
+    "element": "Normal",
+    "category": "buff",
+    "target": "self",
+    "sp_cost": 1,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "buff",
+      "stat": "phys_def",
+      "value": 0.3,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-NOR-005",
+    "name": "Power Shot",
+    "element": "Normal",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 2,
+    "power": 150,
+    "damage_type": "physical",
+    "effect": {
+      "type": "buff",
+      "stat": "crit",
+      "value": 0.1,
+      "turns": 0
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-NOR-006",
+    "name": "Shield Bash",
+    "element": "Normal",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 2,
+    "power": 110,
+    "damage_type": "physical",
+    "effect": {
+      "type": "debuff",
+      "stat": "speed",
+      "value": -0.15,
+      "turns": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-NOR-007",
+    "name": "Rally Cry",
+    "element": "Normal",
+    "category": "buff",
+    "target": "all_allies",
+    "sp_cost": 3,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "buff",
+      "stat": "phys_atk",
+      "value": 0.15,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-NOR-008",
+    "name": "Focus Strike",
+    "element": "Normal",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 2,
+    "power": 140,
+    "damage_type": "physical",
+    "effect": {
+      "type": "buff",
+      "stat": "accuracy",
+      "value": 0.2,
+      "turns": 0
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-NOR-009",
+    "name": "First Aid",
+    "element": "Normal",
+    "category": "heal",
+    "target": "single_ally",
+    "sp_cost": 2,
+    "power": 80,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-NOR-010",
+    "name": "Taunt",
+    "element": "Normal",
+    "category": "debuff",
+    "target": "all_enemies",
+    "sp_cost": 1,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "taunt",
+      "stat": "target",
+      "value": 1,
+      "turns": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-FIR-011",
+    "name": "Ember Shot",
+    "element": "Fire",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 1,
+    "power": 120,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-FIR-012",
+    "name": "Flame Slash",
+    "element": "Fire",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 2,
+    "power": 150,
+    "damage_type": "physical",
+    "effect": {
+      "type": "debuff",
+      "stat": "burn",
+      "value": 0.05,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-FIR-013",
+    "name": "Inferno Burst",
+    "element": "Fire",
+    "category": "attack",
+    "target": "all_enemies",
+    "sp_cost": 4,
+    "power": 110,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-FIR-014",
+    "name": "Burning Brand",
+    "element": "Fire",
+    "category": "debuff",
+    "target": "single_enemy",
+    "sp_cost": 2,
+    "power": 60,
+    "damage_type": "magic",
+    "effect": {
+      "type": "debuff",
+      "stat": "burn",
+      "value": 0.08,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-FIR-015",
+    "name": "Heat Wave",
+    "element": "Fire",
+    "category": "buff",
+    "target": "all_allies",
+    "sp_cost": 3,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "buff",
+      "stat": "magic_atk",
+      "value": 0.15,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-WAT-016",
+    "name": "Aqua Bolt",
+    "element": "Water",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 1,
+    "power": 120,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-WAT-017",
+    "name": "Tidal Wave",
+    "element": "Water",
+    "category": "attack",
+    "target": "all_enemies",
+    "sp_cost": 4,
+    "power": 105,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-WAT-018",
+    "name": "Healing Rain",
+    "element": "Water",
+    "category": "heal",
+    "target": "all_allies",
+    "sp_cost": 4,
+    "power": 60,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-WAT-019",
+    "name": "Frost Bind",
+    "element": "Water",
+    "category": "debuff",
+    "target": "single_enemy",
+    "sp_cost": 2,
+    "power": 80,
+    "damage_type": "magic",
+    "effect": {
+      "type": "debuff",
+      "stat": "speed",
+      "value": -0.25,
+      "turns": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-WAT-020",
+    "name": "Bubble Shield",
+    "element": "Water",
+    "category": "shield",
+    "target": "single_ally",
+    "sp_cost": 2,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "shield",
+      "stat": "hp_percent",
+      "value": 0.15,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-WND-021",
+    "name": "Gale Cut",
+    "element": "Wind",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 1,
+    "power": 115,
+    "damage_type": "physical",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-WND-022",
+    "name": "Cyclone",
+    "element": "Wind",
+    "category": "attack",
+    "target": "all_enemies",
+    "sp_cost": 4,
+    "power": 105,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-WND-023",
+    "name": "Tailwind",
+    "element": "Wind",
+    "category": "buff",
+    "target": "all_allies",
+    "sp_cost": 3,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "buff",
+      "stat": "speed",
+      "value": 0.15,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-WND-024",
+    "name": "Piercing Gust",
+    "element": "Wind",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 2,
+    "power": 130,
+    "damage_type": "physical",
+    "effect": {
+      "type": "buff",
+      "stat": "crit",
+      "value": 0.2,
+      "turns": 0
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-WND-025",
+    "name": "Wind Veil",
+    "element": "Wind",
+    "category": "buff",
+    "target": "single_ally",
+    "sp_cost": 2,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "buff",
+      "stat": "evasion",
+      "value": 0.2,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-EAR-026",
+    "name": "Rock Throw",
+    "element": "Earth",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 1,
+    "power": 125,
+    "damage_type": "physical",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-EAR-027",
+    "name": "Stone Skin",
+    "element": "Earth",
+    "category": "buff",
+    "target": "single_ally",
+    "sp_cost": 2,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "buff",
+      "stat": "phys_def",
+      "value": 0.25,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-EAR-028",
+    "name": "Quake",
+    "element": "Earth",
+    "category": "attack",
+    "target": "all_enemies",
+    "sp_cost": 4,
+    "power": 100,
+    "damage_type": "physical",
+    "effect": {
+      "type": "debuff",
+      "stat": "speed",
+      "value": -0.1,
+      "turns": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-EAR-029",
+    "name": "Earthen Wall",
+    "element": "Earth",
+    "category": "shield",
+    "target": "all_allies",
+    "sp_cost": 4,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "shield",
+      "stat": "hp_percent",
+      "value": 0.1,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-EAR-030",
+    "name": "Grounding",
+    "element": "Earth",
+    "category": "debuff",
+    "target": "single_enemy",
+    "sp_cost": 2,
+    "power": 70,
+    "damage_type": "physical",
+    "effect": {
+      "type": "debuff",
+      "stat": "evasion",
+      "value": -0.2,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-LGT-031",
+    "name": "Holy Ray",
+    "element": "Light",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 1,
+    "power": 120,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-LGT-032",
+    "name": "Radiant Heal",
+    "element": "Light",
+    "category": "heal",
+    "target": "single_ally",
+    "sp_cost": 3,
+    "power": 150,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-LGT-033",
+    "name": "Purify",
+    "element": "Light",
+    "category": "heal",
+    "target": "single_ally",
+    "sp_cost": 2,
+    "power": 40,
+    "damage_type": "magic",
+    "effect": {
+      "type": "cleanse",
+      "stat": "all",
+      "value": 1,
+      "turns": 0
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-LGT-034",
+    "name": "Blessing",
+    "element": "Light",
+    "category": "buff",
+    "target": "all_allies",
+    "sp_cost": 3,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "buff",
+      "stat": "phys_atk",
+      "value": 0.15,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-LGT-035",
+    "name": "Luminous Barrier",
+    "element": "Light",
+    "category": "shield",
+    "target": "all_allies",
+    "sp_cost": 4,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "shield",
+      "stat": "hp_percent",
+      "value": 0.12,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-DRK-036",
+    "name": "Shadow Bolt",
+    "element": "Dark",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 1,
+    "power": 125,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-DRK-037",
+    "name": "Drain Touch",
+    "element": "Dark",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 2,
+    "power": 110,
+    "damage_type": "magic",
+    "effect": {
+      "type": "lifesteal",
+      "stat": "hp",
+      "value": 0.5,
+      "turns": 0
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-DRK-038",
+    "name": "Curse",
+    "element": "Dark",
+    "category": "debuff",
+    "target": "single_enemy",
+    "sp_cost": 2,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "debuff",
+      "stat": "phys_atk",
+      "value": -0.2,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-DRK-039",
+    "name": "Fear Wail",
+    "element": "Dark",
+    "category": "debuff",
+    "target": "all_enemies",
+    "sp_cost": 3,
+    "power": 0,
+    "damage_type": "none",
+    "effect": {
+      "type": "debuff",
+      "stat": "accuracy",
+      "value": -0.2,
+      "turns": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-DRK-040",
+    "name": "Void Pulse",
+    "element": "Dark",
+    "category": "attack",
+    "target": "all_enemies",
+    "sp_cost": 4,
+    "power": 110,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-CMB-041",
+    "name": "Steam Burst",
+    "element": "Combination",
+    "category": "attack",
+    "target": "all_enemies",
+    "sp_cost": 5,
+    "power": 125,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-CMB-042",
+    "name": "Lava Strike",
+    "element": "Combination",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 4,
+    "power": 190,
+    "damage_type": "physical",
+    "effect": {
+      "type": "debuff",
+      "stat": "burn",
+      "value": 0.08,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-CMB-043",
+    "name": "Firestorm",
+    "element": "Combination",
+    "category": "attack",
+    "target": "all_enemies",
+    "sp_cost": 5,
+    "power": 120,
+    "damage_type": "magic",
+    "effect": {
+      "type": "debuff",
+      "stat": "burn",
+      "value": 0.05,
+      "turns": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-CMB-044",
+    "name": "Mud Trap",
+    "element": "Combination",
+    "category": "debuff",
+    "target": "all_enemies",
+    "sp_cost": 4,
+    "power": 60,
+    "damage_type": "magic",
+    "effect": {
+      "type": "debuff",
+      "stat": "speed",
+      "value": -0.3,
+      "turns": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-CMB-045",
+    "name": "Blizzard",
+    "element": "Combination",
+    "category": "attack",
+    "target": "all_enemies",
+    "sp_cost": 5,
+    "power": 115,
+    "damage_type": "magic",
+    "effect": {
+      "type": "debuff",
+      "stat": "speed",
+      "value": -0.2,
+      "turns": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-CMB-046",
+    "name": "Sandstorm",
+    "element": "Combination",
+    "category": "debuff",
+    "target": "all_enemies",
+    "sp_cost": 4,
+    "power": 70,
+    "damage_type": "magic",
+    "effect": {
+      "type": "debuff",
+      "stat": "accuracy",
+      "value": -0.25,
+      "turns": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-CMB-047",
+    "name": "Sacred Flame",
+    "element": "Combination",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 4,
+    "power": 180,
+    "damage_type": "magic",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-CMB-048",
+    "name": "Twilight Slash",
+    "element": "Combination",
+    "category": "attack",
+    "target": "single_enemy",
+    "sp_cost": 4,
+    "power": 185,
+    "damage_type": "physical",
+    "effect": null,
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-CMB-049",
+    "name": "Shadow Flame",
+    "element": "Combination",
+    "category": "attack",
+    "target": "all_enemies",
+    "sp_cost": 5,
+    "power": 125,
+    "damage_type": "magic",
+    "effect": {
+      "type": "debuff",
+      "stat": "magic_def",
+      "value": -0.15,
+      "turns": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "BS-CMB-050",
+    "name": "Tidal Eclipse",
+    "element": "Combination",
+    "category": "attack",
+    "target": "all_enemies",
+    "sp_cost": 5,
+    "power": 120,
+    "damage_type": "magic",
+    "effect": {
+      "type": "lifesteal",
+      "stat": "hp",
+      "value": 0.3,
+      "turns": 0
+    },
+    "balance_status": "draft"
+  }
+]

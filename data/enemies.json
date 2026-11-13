@@ -1,0 +1,2116 @@
+[
+  {
+    "id": "ENM-PWN-001",
+    "name": "Rusted Soldier",
+    "type": "pawn",
+    "element": "Normal",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 100,
+      "atk": 20,
+      "def": 8,
+      "spd": 10
+    },
+    "skills": [
+      "BS-NOR-001",
+      "BS-NOR-002"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-002",
+    "name": "Hedge Mage",
+    "type": "pawn",
+    "element": "Normal",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 80,
+      "atk": 24,
+      "def": 5,
+      "spd": 12
+    },
+    "skills": [
+      "BS-NOR-001",
+      "BS-NOR-005"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-003",
+    "name": "Cinder Imp",
+    "type": "pawn",
+    "element": "Fire",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 100,
+      "atk": 20,
+      "def": 8,
+      "spd": 10
+    },
+    "skills": [
+      "BS-FIR-011",
+      "BS-FIR-012"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-004",
+    "name": "Ember Acolyte",
+    "type": "pawn",
+    "element": "Fire",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 80,
+      "atk": 24,
+      "def": 5,
+      "spd": 12
+    },
+    "skills": [
+      "BS-FIR-011",
+      "BS-FIR-013"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-005",
+    "name": "Brine Crawler",
+    "type": "pawn",
+    "element": "Water",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 100,
+      "atk": 20,
+      "def": 8,
+      "spd": 10
+    },
+    "skills": [
+      "BS-WAT-016",
+      "BS-WAT-017"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-006",
+    "name": "Tide Caller",
+    "type": "pawn",
+    "element": "Water",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 80,
+      "atk": 24,
+      "def": 5,
+      "spd": 12
+    },
+    "skills": [
+      "BS-WAT-016",
+      "BS-WAT-019"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-007",
+    "name": "Gale Hawk",
+    "type": "pawn",
+    "element": "Wind",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 100,
+      "atk": 20,
+      "def": 8,
+      "spd": 10
+    },
+    "skills": [
+      "BS-WND-021",
+      "BS-WND-024"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-008",
+    "name": "Storm Sprite",
+    "type": "pawn",
+    "element": "Wind",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 80,
+      "atk": 24,
+      "def": 5,
+      "spd": 12
+    },
+    "skills": [
+      "BS-WND-021",
+      "BS-WND-022"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-009",
+    "name": "Stone Brute",
+    "type": "pawn",
+    "element": "Earth",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 100,
+      "atk": 20,
+      "def": 8,
+      "spd": 10
+    },
+    "skills": [
+      "BS-EAR-026",
+      "BS-EAR-028"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-010",
+    "name": "Pebble Shaman",
+    "type": "pawn",
+    "element": "Earth",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 80,
+      "atk": 24,
+      "def": 5,
+      "spd": 12
+    },
+    "skills": [
+      "BS-EAR-026",
+      "BS-EAR-030"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-011",
+    "name": "Dawn Sentinel",
+    "type": "pawn",
+    "element": "Light",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 100,
+      "atk": 20,
+      "def": 8,
+      "spd": 10
+    },
+    "skills": [
+      "BS-LGT-031",
+      "BS-CMB-047"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-012",
+    "name": "Halo Wisp",
+    "type": "pawn",
+    "element": "Light",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 80,
+      "atk": 24,
+      "def": 5,
+      "spd": 12
+    },
+    "skills": [
+      "BS-LGT-031",
+      "BS-LGT-034"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-013",
+    "name": "Shade Stalker",
+    "type": "pawn",
+    "element": "Dark",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 100,
+      "atk": 20,
+      "def": 8,
+      "spd": 10
+    },
+    "skills": [
+      "BS-DRK-036",
+      "BS-DRK-037"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-PWN-014",
+    "name": "Gloom Weaver",
+    "type": "pawn",
+    "element": "Dark",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 80,
+      "atk": 24,
+      "def": 5,
+      "spd": 12
+    },
+    "skills": [
+      "BS-DRK-036",
+      "BS-DRK-040"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-MND-001",
+    "name": "Whisper of Doubt",
+    "type": "mind_boss",
+    "element": "Normal",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 700,
+      "atk": 30,
+      "def": 14,
+      "spd": 13
+    },
+    "skills": [
+      "BS-NOR-001",
+      "BS-NOR-002",
+      "BS-NOR-010"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-NOR-001",
+          "BS-NOR-002"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-NOR-001",
+          "BS-NOR-002",
+          "BS-NOR-005"
+        ],
+        "shield_percent": 0.1,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-MND-002",
+    "name": "Cinder Oracle",
+    "type": "mind_boss",
+    "element": "Fire",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 700,
+      "atk": 30,
+      "def": 14,
+      "spd": 13
+    },
+    "skills": [
+      "BS-FIR-011",
+      "BS-FIR-012",
+      "BS-FIR-014"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012",
+          "BS-FIR-013"
+        ],
+        "shield_percent": 0.1,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-MND-003",
+    "name": "Drowned Memory",
+    "type": "mind_boss",
+    "element": "Water",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 700,
+      "atk": 30,
+      "def": 14,
+      "spd": 13
+    },
+    "skills": [
+      "BS-WAT-016",
+      "BS-WAT-017",
+      "BS-WAT-019"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017",
+          "BS-WAT-019"
+        ],
+        "shield_percent": 0.1,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-MND-004",
+    "name": "Hollow Gale",
+    "type": "mind_boss",
+    "element": "Wind",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 700,
+      "atk": 30,
+      "def": 14,
+      "spd": 13
+    },
+    "skills": [
+      "BS-WND-021",
+      "BS-WND-024",
+      "BS-CMB-046"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-WND-021",
+          "BS-WND-024"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-WND-021",
+          "BS-WND-024",
+          "BS-WND-022"
+        ],
+        "shield_percent": 0.1,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-MND-005",
+    "name": "Stone Dreamer",
+    "type": "mind_boss",
+    "element": "Earth",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 700,
+      "atk": 30,
+      "def": 14,
+      "spd": 13
+    },
+    "skills": [
+      "BS-EAR-026",
+      "BS-EAR-028",
+      "BS-EAR-030"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-EAR-026",
+          "BS-EAR-028"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-EAR-026",
+          "BS-EAR-028",
+          "BS-EAR-030"
+        ],
+        "shield_percent": 0.1,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-MND-006",
+    "name": "Blinding Truth",
+    "type": "mind_boss",
+    "element": "Light",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 700,
+      "atk": 30,
+      "def": 14,
+      "spd": 13
+    },
+    "skills": [
+      "BS-LGT-031",
+      "BS-CMB-047",
+      "BS-LGT-034"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-LGT-031",
+          "BS-CMB-047"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-LGT-031",
+          "BS-CMB-047",
+          "BS-LGT-034"
+        ],
+        "shield_percent": 0.1,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-MND-007",
+    "name": "Dread Lullaby",
+    "type": "mind_boss",
+    "element": "Dark",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 700,
+      "atk": 30,
+      "def": 14,
+      "spd": 13
+    },
+    "skills": [
+      "BS-DRK-036",
+      "BS-DRK-037",
+      "BS-DRK-039"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037",
+          "BS-DRK-040"
+        ],
+        "shield_percent": 0.1,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-MND-008",
+    "name": "Pyre of Regret",
+    "type": "mind_boss",
+    "element": "Fire",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 700,
+      "atk": 30,
+      "def": 14,
+      "spd": 13
+    },
+    "skills": [
+      "BS-FIR-011",
+      "BS-FIR-012",
+      "BS-FIR-014"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012",
+          "BS-FIR-013"
+        ],
+        "shield_percent": 0.1,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-MND-009",
+    "name": "Tide of Despair",
+    "type": "mind_boss",
+    "element": "Water",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 700,
+      "atk": 30,
+      "def": 14,
+      "spd": 13
+    },
+    "skills": [
+      "BS-WAT-016",
+      "BS-WAT-017",
+      "BS-WAT-019"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017",
+          "BS-WAT-019"
+        ],
+        "shield_percent": 0.1,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-MND-010",
+    "name": "Eclipse Mindwarden",
+    "type": "mind_boss",
+    "element": "Dark",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 700,
+      "atk": 30,
+      "def": 14,
+      "spd": 13
+    },
+    "skills": [
+      "BS-DRK-036",
+      "BS-DRK-037",
+      "BS-DRK-039"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037",
+          "BS-DRK-040"
+        ],
+        "shield_percent": 0.1,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-FLR-001",
+    "name": "Ironclad Gatekeeper",
+    "type": "floor_boss",
+    "element": "Normal",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 1200,
+      "atk": 36,
+      "def": 18,
+      "spd": 12
+    },
+    "skills": [
+      "BS-NOR-001",
+      "BS-NOR-002",
+      "BS-NOR-005",
+      "BS-NOR-010"
+    ],
+    "ultimate": "UL-021",
+    "final_boss": false,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-NOR-001",
+          "BS-NOR-002"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-NOR-001",
+          "BS-NOR-002",
+          "BS-NOR-005"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-NOR-001",
+          "BS-NOR-002",
+          "BS-NOR-005",
+          "BS-NOR-010"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-FLR-002",
+    "name": "Magma Warden",
+    "type": "floor_boss",
+    "element": "Fire",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 1200,
+      "atk": 36,
+      "def": 18,
+      "spd": 12
+    },
+    "skills": [
+      "BS-FIR-011",
+      "BS-FIR-012",
+      "BS-FIR-013",
+      "BS-FIR-014"
+    ],
+    "ultimate": "UL-005",
+    "final_boss": false,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012",
+          "BS-FIR-013"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012",
+          "BS-FIR-013",
+          "BS-FIR-014"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-FLR-003",
+    "name": "Abyss Leviathan",
+    "type": "floor_boss",
+    "element": "Water",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 1200,
+      "atk": 36,
+      "def": 18,
+      "spd": 12
+    },
+    "skills": [
+      "BS-WAT-016",
+      "BS-WAT-017",
+      "BS-WAT-019"
+    ],
+    "ultimate": "UL-007",
+    "final_boss": false,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017",
+          "BS-WAT-019"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017",
+          "BS-WAT-019"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-FLR-004",
+    "name": "Storm Roc",
+    "type": "floor_boss",
+    "element": "Wind",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 1200,
+      "atk": 36,
+      "def": 18,
+      "spd": 12
+    },
+    "skills": [
+      "BS-WND-021",
+      "BS-WND-024",
+      "BS-WND-022",
+      "BS-CMB-046"
+    ],
+    "ultimate": "UL-009",
+    "final_boss": false,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-WND-021",
+          "BS-WND-024"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-WND-021",
+          "BS-WND-024",
+          "BS-WND-022"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-WND-021",
+          "BS-WND-024",
+          "BS-WND-022",
+          "BS-CMB-046"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-FLR-005",
+    "name": "Earthen Colossus",
+    "type": "floor_boss",
+    "element": "Earth",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 1200,
+      "atk": 36,
+      "def": 18,
+      "spd": 12
+    },
+    "skills": [
+      "BS-EAR-026",
+      "BS-EAR-028",
+      "BS-EAR-030"
+    ],
+    "ultimate": "UL-027",
+    "final_boss": false,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-EAR-026",
+          "BS-EAR-028"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-EAR-026",
+          "BS-EAR-028",
+          "BS-EAR-030"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-EAR-026",
+          "BS-EAR-028",
+          "BS-EAR-030"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-FLR-006",
+    "name": "Archon of Dawn",
+    "type": "floor_boss",
+    "element": "Light",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 1200,
+      "atk": 36,
+      "def": 18,
+      "spd": 12
+    },
+    "skills": [
+      "BS-LGT-031",
+      "BS-CMB-047",
+      "BS-LGT-034"
+    ],
+    "ultimate": "UL-013",
+    "final_boss": false,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-LGT-031",
+          "BS-CMB-047"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-LGT-031",
+          "BS-CMB-047",
+          "BS-LGT-034"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-LGT-031",
+          "BS-CMB-047",
+          "BS-LGT-034"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-FLR-007",
+    "name": "Night Sovereign",
+    "type": "floor_boss",
+    "element": "Dark",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 1200,
+      "atk": 36,
+      "def": 18,
+      "spd": 12
+    },
+    "skills": [
+      "BS-DRK-036",
+      "BS-DRK-037",
+      "BS-DRK-040",
+      "BS-DRK-039"
+    ],
+    "ultimate": "UL-016",
+    "final_boss": false,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037",
+          "BS-DRK-040"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037",
+          "BS-DRK-040",
+          "BS-DRK-039"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-FLR-008",
+    "name": "Phoenix Tyrant",
+    "type": "floor_boss",
+    "element": "Fire",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 1200,
+      "atk": 36,
+      "def": 18,
+      "spd": 12
+    },
+    "skills": [
+      "BS-FIR-011",
+      "BS-FIR-012",
+      "BS-FIR-013",
+      "BS-FIR-014"
+    ],
+    "ultimate": "UL-005",
+    "final_boss": false,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012",
+          "BS-FIR-013"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012",
+          "BS-FIR-013",
+          "BS-FIR-014"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-FLR-009",
+    "name": "Frozen Kraken",
+    "type": "floor_boss",
+    "element": "Water",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 1200,
+      "atk": 36,
+      "def": 18,
+      "spd": 12
+    },
+    "skills": [
+      "BS-WAT-016",
+      "BS-WAT-017",
+      "BS-WAT-019"
+    ],
+    "ultimate": "UL-007",
+    "final_boss": false,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017",
+          "BS-WAT-019"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017",
+          "BS-WAT-019"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-FLR-010",
+    "name": "Aetheria's Last Guardian",
+    "type": "floor_boss",
+    "element": "Dark",
+    "scaling": "tower",
+    "base_stats": {
+      "hp": 1200,
+      "atk": 36,
+      "def": 18,
+      "spd": 12
+    },
+    "skills": [
+      "BS-DRK-036",
+      "BS-DRK-037",
+      "BS-DRK-040",
+      "BS-DRK-039"
+    ],
+    "ultimate": "UL-016",
+    "final_boss": true,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037",
+          "BS-DRK-040"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037",
+          "BS-DRK-040",
+          "BS-DRK-039"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-RDB-001",
+    "name": "Ancient Wyrm Vorgath",
+    "type": "raid_boss",
+    "element": "Fire",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 6000,
+      "atk": 45,
+      "def": 20,
+      "spd": 16
+    },
+    "skills": [
+      "BS-FIR-011",
+      "BS-FIR-012",
+      "BS-FIR-013",
+      "BS-FIR-014"
+    ],
+    "ultimate": "UL-005",
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012",
+          "BS-FIR-013"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012",
+          "BS-FIR-013",
+          "BS-FIR-014"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-RDB-002",
+    "name": "Kraken of the Deep",
+    "type": "raid_boss",
+    "element": "Water",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 19494,
+      "atk": 110,
+      "def": 45,
+      "spd": 18
+    },
+    "skills": [
+      "BS-WAT-016",
+      "BS-WAT-017",
+      "BS-WAT-019"
+    ],
+    "ultimate": "UL-007",
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017",
+          "BS-WAT-019"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017",
+          "BS-WAT-019"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-RDB-003",
+    "name": "Skyfall Titan",
+    "type": "raid_boss",
+    "element": "Wind",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 38838,
+      "atk": 187,
+      "def": 74,
+      "spd": 20
+    },
+    "skills": [
+      "BS-WND-021",
+      "BS-WND-024",
+      "BS-WND-022",
+      "BS-CMB-046"
+    ],
+    "ultimate": "UL-009",
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-WND-021",
+          "BS-WND-024"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-WND-021",
+          "BS-WND-024",
+          "BS-WND-022"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-WND-021",
+          "BS-WND-024",
+          "BS-WND-022",
+          "BS-CMB-046"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-RDB-004",
+    "name": "Void Behemoth",
+    "type": "raid_boss",
+    "element": "Dark",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 63336,
+      "atk": 272,
+      "def": 105,
+      "spd": 22
+    },
+    "skills": [
+      "BS-DRK-036",
+      "BS-DRK-037",
+      "BS-DRK-040",
+      "BS-DRK-039"
+    ],
+    "ultimate": "UL-016",
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037",
+          "BS-DRK-040"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037",
+          "BS-DRK-040",
+          "BS-DRK-039"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-RDB-005",
+    "name": "Celestial Judge",
+    "type": "raid_boss",
+    "element": "Light",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 92555,
+      "atk": 364,
+      "def": 137,
+      "spd": 24
+    },
+    "skills": [
+      "BS-LGT-031",
+      "BS-CMB-047",
+      "BS-LGT-034"
+    ],
+    "ultimate": "UL-013",
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-LGT-031",
+          "BS-CMB-047"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-LGT-031",
+          "BS-CMB-047",
+          "BS-LGT-034"
+        ],
+        "shield_percent": 0.15,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      },
+      {
+        "phase": 3,
+        "hp_threshold": 0.25,
+        "skills": [
+          "BS-LGT-031",
+          "BS-CMB-047",
+          "BS-LGT-034"
+        ],
+        "shield_percent": 0.2,
+        "stat_mult": {
+          "atk": 1.4,
+          "spd": 1.2
+        },
+        "uses_ultimate": true
+      }
+    ]
+  },
+  {
+    "id": "ENM-RFT-001",
+    "name": "Ember Gatekeeper",
+    "type": "rift_boss",
+    "element": "Fire",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 3000,
+      "atk": 35,
+      "def": 15,
+      "spd": 13
+    },
+    "skills": [
+      "BS-FIR-011",
+      "BS-FIR-012",
+      "BS-FIR-013",
+      "BS-FIR-014"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-FIR-011",
+          "BS-FIR-012",
+          "BS-FIR-013"
+        ],
+        "shield_percent": 0.12,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-RFT-002",
+    "name": "Tide Gatekeeper",
+    "type": "rift_boss",
+    "element": "Water",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 8485,
+      "atk": 80,
+      "def": 32,
+      "spd": 14
+    },
+    "skills": [
+      "BS-WAT-016",
+      "BS-WAT-017",
+      "BS-WAT-019"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-WAT-016",
+          "BS-WAT-017",
+          "BS-WAT-019"
+        ],
+        "shield_percent": 0.12,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-RFT-003",
+    "name": "Gale Gatekeeper",
+    "type": "rift_boss",
+    "element": "Wind",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 15588,
+      "atk": 130,
+      "def": 50,
+      "spd": 15
+    },
+    "skills": [
+      "BS-WND-021",
+      "BS-WND-024",
+      "BS-WND-022",
+      "BS-CMB-046"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-WND-021",
+          "BS-WND-024"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-WND-021",
+          "BS-WND-024",
+          "BS-WND-022"
+        ],
+        "shield_percent": 0.12,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-RFT-004",
+    "name": "Stone Gatekeeper",
+    "type": "rift_boss",
+    "element": "Earth",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 24000,
+      "atk": 184,
+      "def": 68,
+      "spd": 16
+    },
+    "skills": [
+      "BS-EAR-026",
+      "BS-EAR-028",
+      "BS-EAR-030"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-EAR-026",
+          "BS-EAR-028"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-EAR-026",
+          "BS-EAR-028",
+          "BS-EAR-030"
+        ],
+        "shield_percent": 0.12,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-RFT-005",
+    "name": "Void Gatekeeper",
+    "type": "rift_boss",
+    "element": "Dark",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 33541,
+      "atk": 241,
+      "def": 88,
+      "spd": 17
+    },
+    "skills": [
+      "BS-DRK-036",
+      "BS-DRK-037",
+      "BS-DRK-040",
+      "BS-DRK-039"
+    ],
+    "ultimate": null,
+    "phases": [
+      {
+        "phase": 1,
+        "hp_threshold": 1.0,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037"
+        ],
+        "shield_percent": 0.0,
+        "stat_mult": {
+          "atk": 1.0,
+          "spd": 1.0
+        }
+      },
+      {
+        "phase": 2,
+        "hp_threshold": 0.5,
+        "skills": [
+          "BS-DRK-036",
+          "BS-DRK-037",
+          "BS-DRK-040"
+        ],
+        "shield_percent": 0.12,
+        "stat_mult": {
+          "atk": 1.2,
+          "spd": 1.1
+        }
+      }
+    ]
+  },
+  {
+    "id": "ENM-DGN-001",
+    "name": "Cave Bat",
+    "type": "dungeon",
+    "element": "Dark",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 90,
+      "atk": 18,
+      "def": 6,
+      "spd": 10
+    },
+    "skills": [
+      "BS-DRK-036",
+      "BS-DRK-037"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-DGN-002",
+    "name": "Forest Wolf",
+    "type": "dungeon",
+    "element": "Normal",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 100,
+      "atk": 20,
+      "def": 7,
+      "spd": 11
+    },
+    "skills": [
+      "BS-NOR-001",
+      "BS-NOR-002"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-DGN-003",
+    "name": "Stone Golem",
+    "type": "dungeon",
+    "element": "Earth",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 110,
+      "atk": 22,
+      "def": 8,
+      "spd": 12
+    },
+    "skills": [
+      "BS-EAR-026",
+      "BS-EAR-028"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-DGN-004",
+    "name": "Marsh Slime",
+    "type": "dungeon",
+    "element": "Water",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 120,
+      "atk": 24,
+      "def": 9,
+      "spd": 13
+    },
+    "skills": [
+      "BS-WAT-016",
+      "BS-WAT-017"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-DGN-005",
+    "name": "Ruin Skeleton",
+    "type": "dungeon",
+    "element": "Dark",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 130,
+      "atk": 26,
+      "def": 10,
+      "spd": 14
+    },
+    "skills": [
+      "BS-DRK-036",
+      "BS-DRK-037"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-DGN-006",
+    "name": "Dust Wraith",
+    "type": "dungeon",
+    "element": "Wind",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 140,
+      "atk": 28,
+      "def": 11,
+      "spd": 15
+    },
+    "skills": [
+      "BS-WND-021",
+      "BS-WND-024"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-DGN-007",
+    "name": "Mana Wisp",
+    "type": "dungeon",
+    "element": "Light",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 150,
+      "atk": 30,
+      "def": 12,
+      "spd": 16
+    },
+    "skills": [
+      "BS-LGT-031",
+      "BS-CMB-047"
+    ],
+    "ultimate": null,
+    "phases": null
+  },
+  {
+    "id": "ENM-DGN-008",
+    "name": "Thorn Beast",
+    "type": "dungeon",
+    "element": "Earth",
+    "scaling": "fixed",
+    "base_stats": {
+      "hp": 160,
+      "atk": 32,
+      "def": 13,
+      "spd": 17
+    },
+    "skills": [
+      "BS-EAR-026",
+      "BS-EAR-028"
+    ],
+    "ultimate": null,
+    "phases": null
+  }
+]

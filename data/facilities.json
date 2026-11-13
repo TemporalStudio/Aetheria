@@ -1,0 +1,22 @@
+[
+  {
+    "id": "FAC-DORM",
+    "name": "Dormitory",
+    "function": "Restore HP/SP during Skip Day"
+  },
+  {
+    "id": "FAC-TRAIN",
+    "name": "Training Ground",
+    "function": "Random permanent stat growth during Skip Day"
+  },
+  {
+    "id": "FAC-SMITH",
+    "name": "Blacksmith",
+    "function": "Craft Equipment"
+  },
+  {
+    "id": "FAC-MAGIC",
+    "name": "Magic Tower",
+    "function": "Craft Medical"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Attacker",
+    "base": {
+      "max_hp": 100,
+      "phys_atk": 14,
+      "magic_atk": 8,
+      "phys_def": 6,
+      "magic_def": 4,
+      "speed": 10
+    },
+    "growth": {
+      "max_hp": 12,
+      "phys_atk": 2.2,
+      "magic_atk": 1.0,
+      "phys_def": 1.0,
+      "magic_def": 0.6,
+      "speed": 0.3
+    },
+    "secondary_base": {
+      "crit": 5,
+      "evasion": 3,
+      "accuracy": 90
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "Defender",
+    "base": {
+      "max_hp": 140,
+      "phys_atk": 9,
+      "magic_atk": 5,
+      "phys_def": 12,
+      "magic_def": 8,
+      "speed": 8
+    },
+    "growth": {
+      "max_hp": 16,
+      "phys_atk": 1.2,
+      "magic_atk": 0.6,
+      "phys_def": 2.0,
+      "magic_def": 1.2,
+      "speed": 0.2
+    },
+    "secondary_base": {
+      "crit": 3,
+      "evasion": 2,
+      "accuracy": 90
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "Healer",
+    "base": {
+      "max_hp": 90,
+      "phys_atk": 5,
+      "magic_atk": 13,
+      "phys_def": 5,
+      "magic_def": 10,
+      "speed": 9
+    },
+    "growth": {
+      "max_hp": 10,
+      "phys_atk": 0.6,
+      "magic_atk": 2.2,
+      "phys_def": 0.8,
+      "magic_def": 1.6,
+      "speed": 0.25
+    },
+    "secondary_base": {
+      "crit": 3,
+      "evasion": 3,
+      "accuracy": 95
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "Support",
+    "base": {
+      "max_hp": 95,
+      "phys_atk": 8,
+      "magic_atk": 10,
+      "phys_def": 6,
+      "magic_def": 7,
+      "speed": 12
+    },
+    "growth": {
+      "max_hp": 11,
+      "phys_atk": 1.0,
+      "magic_atk": 1.6,
+      "phys_def": 1.0,
+      "magic_def": 1.1,
+      "speed": 0.4
+    },
+    "secondary_base": {
+      "crit": 4,
+      "evasion": 5,
+      "accuracy": 95
+    },
+    "balance_status": "draft"
+  }
+]

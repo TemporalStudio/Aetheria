@@ -1,0 +1,593 @@
+[
+  {
+    "id": "EQ-WPN-001",
+    "name": "Apprentice Sword",
+    "slot": "weapon",
+    "tier": 1,
+    "stats": {
+      "phys_atk": 8,
+      "crit": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-002",
+    "name": "Veteran Sword",
+    "slot": "weapon",
+    "tier": 2,
+    "stats": {
+      "phys_atk": 16,
+      "crit": 4
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-003",
+    "name": "Master Sword",
+    "slot": "weapon",
+    "tier": 3,
+    "stats": {
+      "phys_atk": 26,
+      "crit": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-004",
+    "name": "Apprentice Staff",
+    "slot": "weapon",
+    "tier": 1,
+    "stats": {
+      "magic_atk": 8,
+      "magic_def": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-005",
+    "name": "Veteran Staff",
+    "slot": "weapon",
+    "tier": 2,
+    "stats": {
+      "magic_atk": 16,
+      "magic_def": 4
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-006",
+    "name": "Master Staff",
+    "slot": "weapon",
+    "tier": 3,
+    "stats": {
+      "magic_atk": 26,
+      "magic_def": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-007",
+    "name": "Apprentice Bow",
+    "slot": "weapon",
+    "tier": 1,
+    "stats": {
+      "phys_atk": 6,
+      "accuracy": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-008",
+    "name": "Veteran Bow",
+    "slot": "weapon",
+    "tier": 2,
+    "stats": {
+      "phys_atk": 12,
+      "accuracy": 12
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-009",
+    "name": "Master Bow",
+    "slot": "weapon",
+    "tier": 3,
+    "stats": {
+      "phys_atk": 19,
+      "accuracy": 19
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-010",
+    "name": "Apprentice Dagger",
+    "slot": "weapon",
+    "tier": 1,
+    "stats": {
+      "phys_atk": 5,
+      "speed": 4,
+      "crit": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-011",
+    "name": "Veteran Dagger",
+    "slot": "weapon",
+    "tier": 2,
+    "stats": {
+      "phys_atk": 10,
+      "speed": 8,
+      "crit": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-012",
+    "name": "Master Dagger",
+    "slot": "weapon",
+    "tier": 3,
+    "stats": {
+      "phys_atk": 16,
+      "speed": 13,
+      "crit": 10
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-013",
+    "name": "Apprentice Mace",
+    "slot": "weapon",
+    "tier": 1,
+    "stats": {
+      "phys_atk": 7,
+      "max_hp": 15
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-014",
+    "name": "Veteran Mace",
+    "slot": "weapon",
+    "tier": 2,
+    "stats": {
+      "phys_atk": 14,
+      "max_hp": 30
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-015",
+    "name": "Master Mace",
+    "slot": "weapon",
+    "tier": 3,
+    "stats": {
+      "phys_atk": 22,
+      "max_hp": 48
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-016",
+    "name": "Apprentice Wand",
+    "slot": "weapon",
+    "tier": 1,
+    "stats": {
+      "magic_atk": 6,
+      "speed": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-017",
+    "name": "Veteran Wand",
+    "slot": "weapon",
+    "tier": 2,
+    "stats": {
+      "magic_atk": 12,
+      "speed": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-WPN-018",
+    "name": "Master Wand",
+    "slot": "weapon",
+    "tier": 3,
+    "stats": {
+      "magic_atk": 19,
+      "speed": 10
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-001",
+    "name": "Apprentice Leather Armor",
+    "slot": "armor",
+    "tier": 1,
+    "stats": {
+      "phys_def": 5,
+      "evasion": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-002",
+    "name": "Veteran Leather Armor",
+    "slot": "armor",
+    "tier": 2,
+    "stats": {
+      "phys_def": 10,
+      "evasion": 4
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-003",
+    "name": "Master Leather Armor",
+    "slot": "armor",
+    "tier": 3,
+    "stats": {
+      "phys_def": 16,
+      "evasion": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-004",
+    "name": "Apprentice Chainmail",
+    "slot": "armor",
+    "tier": 1,
+    "stats": {
+      "phys_def": 8,
+      "max_hp": 10
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-005",
+    "name": "Veteran Chainmail",
+    "slot": "armor",
+    "tier": 2,
+    "stats": {
+      "phys_def": 16,
+      "max_hp": 20
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-006",
+    "name": "Master Chainmail",
+    "slot": "armor",
+    "tier": 3,
+    "stats": {
+      "phys_def": 26,
+      "max_hp": 32
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-007",
+    "name": "Apprentice Robe",
+    "slot": "armor",
+    "tier": 1,
+    "stats": {
+      "magic_def": 6,
+      "magic_atk": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-008",
+    "name": "Veteran Robe",
+    "slot": "armor",
+    "tier": 2,
+    "stats": {
+      "magic_def": 12,
+      "magic_atk": 4
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-009",
+    "name": "Master Robe",
+    "slot": "armor",
+    "tier": 3,
+    "stats": {
+      "magic_def": 19,
+      "magic_atk": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-010",
+    "name": "Apprentice Plate Armor",
+    "slot": "armor",
+    "tier": 1,
+    "stats": {
+      "phys_def": 10,
+      "max_hp": 20
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-011",
+    "name": "Veteran Plate Armor",
+    "slot": "armor",
+    "tier": 2,
+    "stats": {
+      "phys_def": 20,
+      "max_hp": 40
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-012",
+    "name": "Master Plate Armor",
+    "slot": "armor",
+    "tier": 3,
+    "stats": {
+      "phys_def": 32,
+      "max_hp": 64
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-013",
+    "name": "Apprentice Cloak",
+    "slot": "armor",
+    "tier": 1,
+    "stats": {
+      "evasion": 4,
+      "magic_def": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-014",
+    "name": "Veteran Cloak",
+    "slot": "armor",
+    "tier": 2,
+    "stats": {
+      "evasion": 8,
+      "magic_def": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-015",
+    "name": "Master Cloak",
+    "slot": "armor",
+    "tier": 3,
+    "stats": {
+      "evasion": 13,
+      "magic_def": 10
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-016",
+    "name": "Apprentice Vest",
+    "slot": "armor",
+    "tier": 1,
+    "stats": {
+      "max_hp": 25,
+      "phys_def": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-017",
+    "name": "Veteran Vest",
+    "slot": "armor",
+    "tier": 2,
+    "stats": {
+      "max_hp": 50,
+      "phys_def": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ARM-018",
+    "name": "Master Vest",
+    "slot": "armor",
+    "tier": 3,
+    "stats": {
+      "max_hp": 80,
+      "phys_def": 10
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-001",
+    "name": "Apprentice Power Ring",
+    "slot": "accessory",
+    "tier": 1,
+    "stats": {
+      "phys_atk": 3,
+      "magic_atk": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-002",
+    "name": "Veteran Power Ring",
+    "slot": "accessory",
+    "tier": 2,
+    "stats": {
+      "phys_atk": 6,
+      "magic_atk": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-003",
+    "name": "Master Power Ring",
+    "slot": "accessory",
+    "tier": 3,
+    "stats": {
+      "phys_atk": 10,
+      "magic_atk": 10
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-004",
+    "name": "Apprentice Vitality Amulet",
+    "slot": "accessory",
+    "tier": 1,
+    "stats": {
+      "max_hp": 30
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-005",
+    "name": "Veteran Vitality Amulet",
+    "slot": "accessory",
+    "tier": 2,
+    "stats": {
+      "max_hp": 60
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-006",
+    "name": "Master Vitality Amulet",
+    "slot": "accessory",
+    "tier": 3,
+    "stats": {
+      "max_hp": 96
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-007",
+    "name": "Apprentice Swiftness Charm",
+    "slot": "accessory",
+    "tier": 1,
+    "stats": {
+      "speed": 5
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-008",
+    "name": "Veteran Swiftness Charm",
+    "slot": "accessory",
+    "tier": 2,
+    "stats": {
+      "speed": 10
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-009",
+    "name": "Master Swiftness Charm",
+    "slot": "accessory",
+    "tier": 3,
+    "stats": {
+      "speed": 16
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-010",
+    "name": "Apprentice Eye Pendant",
+    "slot": "accessory",
+    "tier": 1,
+    "stats": {
+      "accuracy": 8,
+      "crit": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-011",
+    "name": "Veteran Eye Pendant",
+    "slot": "accessory",
+    "tier": 2,
+    "stats": {
+      "accuracy": 16,
+      "crit": 4
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-012",
+    "name": "Master Eye Pendant",
+    "slot": "accessory",
+    "tier": 3,
+    "stats": {
+      "accuracy": 26,
+      "crit": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-013",
+    "name": "Apprentice Ward Bracelet",
+    "slot": "accessory",
+    "tier": 1,
+    "stats": {
+      "phys_def": 3,
+      "magic_def": 3
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-014",
+    "name": "Veteran Ward Bracelet",
+    "slot": "accessory",
+    "tier": 2,
+    "stats": {
+      "phys_def": 6,
+      "magic_def": 6
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-015",
+    "name": "Master Ward Bracelet",
+    "slot": "accessory",
+    "tier": 3,
+    "stats": {
+      "phys_def": 10,
+      "magic_def": 10
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-016",
+    "name": "Apprentice Feather Brooch",
+    "slot": "accessory",
+    "tier": 1,
+    "stats": {
+      "evasion": 5,
+      "speed": 2
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-017",
+    "name": "Veteran Feather Brooch",
+    "slot": "accessory",
+    "tier": 2,
+    "stats": {
+      "evasion": 10,
+      "speed": 4
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "EQ-ACC-018",
+    "name": "Master Feather Brooch",
+    "slot": "accessory",
+    "tier": 3,
+    "stats": {
+      "evasion": 16,
+      "speed": 6
+    },
+    "balance_status": "draft"
+  }
+]

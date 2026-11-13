@@ -1,0 +1,49 @@
+[
+  {
+    "id": "inspired",
+    "condition": {
+      "happiness_min": 80,
+      "fear_max": 20
+    },
+    "combat": {
+      "crit_add": 15,
+      "speed_mult": 1.1
+    },
+    "facility": {
+      "efficiency": 1.25,
+      "work_speed": 1.25
+    }
+  },
+  {
+    "id": "stable",
+    "condition": "default",
+    "combat": {},
+    "facility": {}
+  },
+  {
+    "id": "burnout",
+    "condition": {
+      "happiness_max": 25,
+      "fear_max": 40
+    },
+    "combat": {
+      "atk_mult": 0.9
+    },
+    "facility": {
+      "efficiency": 0.5,
+      "work_speed": 0.5
+    }
+  },
+  {
+    "id": "panicked",
+    "condition": {
+      "fear_min": 75
+    },
+    "combat": {
+      "forced_action": "guard"
+    },
+    "facility": {
+      "halted": true
+    }
+  }
+]

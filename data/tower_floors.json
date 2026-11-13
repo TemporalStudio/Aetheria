@@ -1,0 +1,3072 @@
+[
+  {
+    "id": "FLR-001",
+    "floor": 1,
+    "type": "pawn",
+    "region_element": "Normal",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-001",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-002",
+        "qty": 1
+      }
+    ],
+    "scale": 1.0,
+    "rewards": {
+      "gold": 50,
+      "exp": 30,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-001",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-002",
+    "floor": 2,
+    "type": "pawn",
+    "region_element": "Normal",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-001",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-002",
+        "qty": 1
+      }
+    ],
+    "scale": 1.07,
+    "rewards": {
+      "gold": 54,
+      "exp": 32,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-001",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-003",
+    "floor": 3,
+    "type": "pawn",
+    "region_element": "Normal",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-001",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-002",
+        "qty": 1
+      }
+    ],
+    "scale": 1.14,
+    "rewards": {
+      "gold": 57,
+      "exp": 34,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-001",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-004",
+    "floor": 4,
+    "type": "pawn",
+    "region_element": "Normal",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-001",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-002",
+        "qty": 1
+      }
+    ],
+    "scale": 1.21,
+    "rewards": {
+      "gold": 60,
+      "exp": 36,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-001",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-005",
+    "floor": 5,
+    "type": "mind_boss",
+    "region_element": "Normal",
+    "enemies": [
+      {
+        "enemy": "ENM-MND-001",
+        "qty": 1
+      }
+    ],
+    "scale": 1.28,
+    "rewards": {
+      "gold": 192,
+      "exp": 115,
+      "first_clear_gems": 10,
+      "drops": [
+        {
+          "item": "MAT-001",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 0.5,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-006",
+    "floor": 6,
+    "type": "pawn",
+    "region_element": "Normal",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-001",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-002",
+        "qty": 1
+      }
+    ],
+    "scale": 1.35,
+    "rewards": {
+      "gold": 68,
+      "exp": 40,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-001",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-007",
+    "floor": 7,
+    "type": "pawn",
+    "region_element": "Normal",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-001",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-002",
+        "qty": 1
+      }
+    ],
+    "scale": 1.42,
+    "rewards": {
+      "gold": 71,
+      "exp": 43,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-001",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-008",
+    "floor": 8,
+    "type": "pawn",
+    "region_element": "Normal",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-001",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-002",
+        "qty": 1
+      }
+    ],
+    "scale": 1.49,
+    "rewards": {
+      "gold": 74,
+      "exp": 45,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-001",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-009",
+    "floor": 9,
+    "type": "pawn",
+    "region_element": "Normal",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-001",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-002",
+        "qty": 1
+      }
+    ],
+    "scale": 1.56,
+    "rewards": {
+      "gold": 78,
+      "exp": 47,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-001",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-010",
+    "floor": 10,
+    "type": "floor_boss",
+    "region_element": "Normal",
+    "enemies": [
+      {
+        "enemy": "ENM-FLR-001",
+        "qty": 1
+      }
+    ],
+    "scale": 1.63,
+    "rewards": {
+      "gold": 408,
+      "exp": 245,
+      "first_clear_gems": 25,
+      "drops": [
+        {
+          "item": "MAT-001",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 2
+        },
+        {
+          "item": "MAT-009",
+          "chance": 0.13,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-011",
+    "floor": 11,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 1
+      }
+    ],
+    "scale": 1.7,
+    "rewards": {
+      "gold": 85,
+      "exp": 51,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-012",
+    "floor": 12,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 1
+      }
+    ],
+    "scale": 1.77,
+    "rewards": {
+      "gold": 88,
+      "exp": 53,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-013",
+    "floor": 13,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 1
+      }
+    ],
+    "scale": 1.84,
+    "rewards": {
+      "gold": 92,
+      "exp": 55,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-014",
+    "floor": 14,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 1
+      }
+    ],
+    "scale": 1.91,
+    "rewards": {
+      "gold": 96,
+      "exp": 57,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-015",
+    "floor": 15,
+    "type": "mind_boss",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-MND-002",
+        "qty": 1
+      }
+    ],
+    "scale": 1.98,
+    "rewards": {
+      "gold": 297,
+      "exp": 178,
+      "first_clear_gems": 10,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 0.5,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-016",
+    "floor": 16,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 1
+      }
+    ],
+    "scale": 2.05,
+    "rewards": {
+      "gold": 102,
+      "exp": 61,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-017",
+    "floor": 17,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 1
+      }
+    ],
+    "scale": 2.12,
+    "rewards": {
+      "gold": 106,
+      "exp": 64,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-018",
+    "floor": 18,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 1
+      }
+    ],
+    "scale": 2.19,
+    "rewards": {
+      "gold": 110,
+      "exp": 66,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-019",
+    "floor": 19,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 1
+      }
+    ],
+    "scale": 2.26,
+    "rewards": {
+      "gold": 113,
+      "exp": 68,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-020",
+    "floor": 20,
+    "type": "floor_boss",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-FLR-002",
+        "qty": 1
+      }
+    ],
+    "scale": 2.33,
+    "rewards": {
+      "gold": 582,
+      "exp": 350,
+      "first_clear_gems": 25,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 2
+        },
+        {
+          "item": "MAT-009",
+          "chance": 0.16,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-021",
+    "floor": 21,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 1
+      }
+    ],
+    "scale": 2.4,
+    "rewards": {
+      "gold": 120,
+      "exp": 72,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-022",
+    "floor": 22,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 1
+      }
+    ],
+    "scale": 2.47,
+    "rewards": {
+      "gold": 124,
+      "exp": 74,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-023",
+    "floor": 23,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 1
+      }
+    ],
+    "scale": 2.54,
+    "rewards": {
+      "gold": 127,
+      "exp": 76,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-024",
+    "floor": 24,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 1
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 1
+      }
+    ],
+    "scale": 2.61,
+    "rewards": {
+      "gold": 131,
+      "exp": 78,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-025",
+    "floor": 25,
+    "type": "mind_boss",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-MND-003",
+        "qty": 1
+      }
+    ],
+    "scale": 2.68,
+    "rewards": {
+      "gold": 402,
+      "exp": 241,
+      "first_clear_gems": 10,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 0.5,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-026",
+    "floor": 26,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 1
+      }
+    ],
+    "scale": 2.75,
+    "rewards": {
+      "gold": 138,
+      "exp": 82,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-027",
+    "floor": 27,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 1
+      }
+    ],
+    "scale": 2.82,
+    "rewards": {
+      "gold": 141,
+      "exp": 85,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-028",
+    "floor": 28,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 1
+      }
+    ],
+    "scale": 2.89,
+    "rewards": {
+      "gold": 144,
+      "exp": 87,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-029",
+    "floor": 29,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 1
+      }
+    ],
+    "scale": 2.96,
+    "rewards": {
+      "gold": 148,
+      "exp": 89,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-030",
+    "floor": 30,
+    "type": "floor_boss",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-FLR-003",
+        "qty": 1
+      }
+    ],
+    "scale": 3.03,
+    "rewards": {
+      "gold": 758,
+      "exp": 454,
+      "first_clear_gems": 25,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 2
+        },
+        {
+          "item": "MAT-009",
+          "chance": 0.19,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-031",
+    "floor": 31,
+    "type": "pawn",
+    "region_element": "Wind",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-007",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-008",
+        "qty": 1
+      }
+    ],
+    "scale": 3.1,
+    "rewards": {
+      "gold": 155,
+      "exp": 93,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-004",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-032",
+    "floor": 32,
+    "type": "pawn",
+    "region_element": "Wind",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-007",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-008",
+        "qty": 1
+      }
+    ],
+    "scale": 3.17,
+    "rewards": {
+      "gold": 159,
+      "exp": 95,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-004",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-033",
+    "floor": 33,
+    "type": "pawn",
+    "region_element": "Wind",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-007",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-008",
+        "qty": 1
+      }
+    ],
+    "scale": 3.24,
+    "rewards": {
+      "gold": 162,
+      "exp": 97,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-004",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-034",
+    "floor": 34,
+    "type": "pawn",
+    "region_element": "Wind",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-007",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-008",
+        "qty": 1
+      }
+    ],
+    "scale": 3.31,
+    "rewards": {
+      "gold": 166,
+      "exp": 99,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-004",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-035",
+    "floor": 35,
+    "type": "mind_boss",
+    "region_element": "Wind",
+    "enemies": [
+      {
+        "enemy": "ENM-MND-004",
+        "qty": 1
+      }
+    ],
+    "scale": 3.38,
+    "rewards": {
+      "gold": 507,
+      "exp": 304,
+      "first_clear_gems": 10,
+      "drops": [
+        {
+          "item": "MAT-004",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 0.5,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-036",
+    "floor": 36,
+    "type": "pawn",
+    "region_element": "Wind",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-007",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-008",
+        "qty": 1
+      }
+    ],
+    "scale": 3.45,
+    "rewards": {
+      "gold": 172,
+      "exp": 104,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-004",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-037",
+    "floor": 37,
+    "type": "pawn",
+    "region_element": "Wind",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-007",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-008",
+        "qty": 1
+      }
+    ],
+    "scale": 3.52,
+    "rewards": {
+      "gold": 176,
+      "exp": 106,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-004",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-038",
+    "floor": 38,
+    "type": "pawn",
+    "region_element": "Wind",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-007",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-008",
+        "qty": 1
+      }
+    ],
+    "scale": 3.59,
+    "rewards": {
+      "gold": 180,
+      "exp": 108,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-004",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-039",
+    "floor": 39,
+    "type": "pawn",
+    "region_element": "Wind",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-007",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-008",
+        "qty": 1
+      }
+    ],
+    "scale": 3.66,
+    "rewards": {
+      "gold": 183,
+      "exp": 110,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-004",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-040",
+    "floor": 40,
+    "type": "floor_boss",
+    "region_element": "Wind",
+    "enemies": [
+      {
+        "enemy": "ENM-FLR-004",
+        "qty": 1
+      }
+    ],
+    "scale": 3.73,
+    "rewards": {
+      "gold": 933,
+      "exp": 560,
+      "first_clear_gems": 25,
+      "drops": [
+        {
+          "item": "MAT-004",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 2
+        },
+        {
+          "item": "MAT-009",
+          "chance": 0.22,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-041",
+    "floor": 41,
+    "type": "pawn",
+    "region_element": "Earth",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-009",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-010",
+        "qty": 1
+      }
+    ],
+    "scale": 3.8,
+    "rewards": {
+      "gold": 190,
+      "exp": 114,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-002",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-042",
+    "floor": 42,
+    "type": "pawn",
+    "region_element": "Earth",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-009",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-010",
+        "qty": 1
+      }
+    ],
+    "scale": 3.87,
+    "rewards": {
+      "gold": 194,
+      "exp": 116,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-002",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-043",
+    "floor": 43,
+    "type": "pawn",
+    "region_element": "Earth",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-009",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-010",
+        "qty": 1
+      }
+    ],
+    "scale": 3.94,
+    "rewards": {
+      "gold": 197,
+      "exp": 118,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-002",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-044",
+    "floor": 44,
+    "type": "pawn",
+    "region_element": "Earth",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-009",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-010",
+        "qty": 1
+      }
+    ],
+    "scale": 4.01,
+    "rewards": {
+      "gold": 200,
+      "exp": 120,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-002",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-045",
+    "floor": 45,
+    "type": "mind_boss",
+    "region_element": "Earth",
+    "enemies": [
+      {
+        "enemy": "ENM-MND-005",
+        "qty": 1
+      }
+    ],
+    "scale": 4.08,
+    "rewards": {
+      "gold": 612,
+      "exp": 367,
+      "first_clear_gems": 10,
+      "drops": [
+        {
+          "item": "MAT-002",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 0.5,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-046",
+    "floor": 46,
+    "type": "pawn",
+    "region_element": "Earth",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-009",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-010",
+        "qty": 1
+      }
+    ],
+    "scale": 4.15,
+    "rewards": {
+      "gold": 208,
+      "exp": 125,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-002",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-047",
+    "floor": 47,
+    "type": "pawn",
+    "region_element": "Earth",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-009",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-010",
+        "qty": 1
+      }
+    ],
+    "scale": 4.22,
+    "rewards": {
+      "gold": 211,
+      "exp": 127,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-002",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-048",
+    "floor": 48,
+    "type": "pawn",
+    "region_element": "Earth",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-009",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-010",
+        "qty": 1
+      }
+    ],
+    "scale": 4.29,
+    "rewards": {
+      "gold": 215,
+      "exp": 129,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-002",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-049",
+    "floor": 49,
+    "type": "pawn",
+    "region_element": "Earth",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-009",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-010",
+        "qty": 1
+      }
+    ],
+    "scale": 4.36,
+    "rewards": {
+      "gold": 218,
+      "exp": 131,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-002",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-050",
+    "floor": 50,
+    "type": "floor_boss",
+    "region_element": "Earth",
+    "enemies": [
+      {
+        "enemy": "ENM-FLR-005",
+        "qty": 1
+      }
+    ],
+    "scale": 4.43,
+    "rewards": {
+      "gold": 1108,
+      "exp": 664,
+      "first_clear_gems": 25,
+      "drops": [
+        {
+          "item": "MAT-002",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 2
+        },
+        {
+          "item": "MAT-009",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-051",
+    "floor": 51,
+    "type": "pawn",
+    "region_element": "Light",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-011",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-012",
+        "qty": 2
+      }
+    ],
+    "scale": 4.5,
+    "rewards": {
+      "gold": 225,
+      "exp": 135,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-006",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-052",
+    "floor": 52,
+    "type": "pawn",
+    "region_element": "Light",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-011",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-012",
+        "qty": 2
+      }
+    ],
+    "scale": 4.57,
+    "rewards": {
+      "gold": 228,
+      "exp": 137,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-006",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-053",
+    "floor": 53,
+    "type": "pawn",
+    "region_element": "Light",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-011",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-012",
+        "qty": 2
+      }
+    ],
+    "scale": 4.64,
+    "rewards": {
+      "gold": 232,
+      "exp": 139,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-006",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-054",
+    "floor": 54,
+    "type": "pawn",
+    "region_element": "Light",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-011",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-012",
+        "qty": 2
+      }
+    ],
+    "scale": 4.71,
+    "rewards": {
+      "gold": 236,
+      "exp": 141,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-006",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-055",
+    "floor": 55,
+    "type": "mind_boss",
+    "region_element": "Light",
+    "enemies": [
+      {
+        "enemy": "ENM-MND-006",
+        "qty": 1
+      }
+    ],
+    "scale": 4.78,
+    "rewards": {
+      "gold": 717,
+      "exp": 430,
+      "first_clear_gems": 10,
+      "drops": [
+        {
+          "item": "MAT-006",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 0.5,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-056",
+    "floor": 56,
+    "type": "pawn",
+    "region_element": "Light",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-011",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-012",
+        "qty": 2
+      }
+    ],
+    "scale": 4.85,
+    "rewards": {
+      "gold": 243,
+      "exp": 146,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-006",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-057",
+    "floor": 57,
+    "type": "pawn",
+    "region_element": "Light",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-011",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-012",
+        "qty": 2
+      }
+    ],
+    "scale": 4.92,
+    "rewards": {
+      "gold": 246,
+      "exp": 148,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-006",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-058",
+    "floor": 58,
+    "type": "pawn",
+    "region_element": "Light",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-011",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-012",
+        "qty": 2
+      }
+    ],
+    "scale": 4.99,
+    "rewards": {
+      "gold": 250,
+      "exp": 150,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-006",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-059",
+    "floor": 59,
+    "type": "pawn",
+    "region_element": "Light",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-011",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-012",
+        "qty": 2
+      }
+    ],
+    "scale": 5.06,
+    "rewards": {
+      "gold": 253,
+      "exp": 152,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-006",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-060",
+    "floor": 60,
+    "type": "floor_boss",
+    "region_element": "Light",
+    "enemies": [
+      {
+        "enemy": "ENM-FLR-006",
+        "qty": 1
+      }
+    ],
+    "scale": 5.13,
+    "rewards": {
+      "gold": 1283,
+      "exp": 770,
+      "first_clear_gems": 25,
+      "drops": [
+        {
+          "item": "MAT-006",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 2
+        },
+        {
+          "item": "MAT-009",
+          "chance": 0.28,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-061",
+    "floor": 61,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 5.2,
+    "rewards": {
+      "gold": 260,
+      "exp": 156,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-062",
+    "floor": 62,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 5.27,
+    "rewards": {
+      "gold": 264,
+      "exp": 158,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-063",
+    "floor": 63,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 5.34,
+    "rewards": {
+      "gold": 267,
+      "exp": 160,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-064",
+    "floor": 64,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 5.41,
+    "rewards": {
+      "gold": 270,
+      "exp": 162,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-065",
+    "floor": 65,
+    "type": "mind_boss",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-MND-007",
+        "qty": 1
+      }
+    ],
+    "scale": 5.48,
+    "rewards": {
+      "gold": 822,
+      "exp": 493,
+      "first_clear_gems": 10,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 0.5,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-066",
+    "floor": 66,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 5.55,
+    "rewards": {
+      "gold": 278,
+      "exp": 167,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-067",
+    "floor": 67,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 5.62,
+    "rewards": {
+      "gold": 281,
+      "exp": 169,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-068",
+    "floor": 68,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 5.69,
+    "rewards": {
+      "gold": 284,
+      "exp": 171,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-069",
+    "floor": 69,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 5.76,
+    "rewards": {
+      "gold": 288,
+      "exp": 173,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-070",
+    "floor": 70,
+    "type": "floor_boss",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-FLR-007",
+        "qty": 1
+      }
+    ],
+    "scale": 5.83,
+    "rewards": {
+      "gold": 1458,
+      "exp": 874,
+      "first_clear_gems": 25,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 2
+        },
+        {
+          "item": "MAT-009",
+          "chance": 0.31,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-071",
+    "floor": 71,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 2
+      }
+    ],
+    "scale": 5.9,
+    "rewards": {
+      "gold": 295,
+      "exp": 177,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-072",
+    "floor": 72,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 2
+      }
+    ],
+    "scale": 5.97,
+    "rewards": {
+      "gold": 299,
+      "exp": 179,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-073",
+    "floor": 73,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 2
+      }
+    ],
+    "scale": 6.04,
+    "rewards": {
+      "gold": 302,
+      "exp": 181,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-074",
+    "floor": 74,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 2
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 2
+      }
+    ],
+    "scale": 6.11,
+    "rewards": {
+      "gold": 306,
+      "exp": 183,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-075",
+    "floor": 75,
+    "type": "mind_boss",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-MND-008",
+        "qty": 1
+      }
+    ],
+    "scale": 6.18,
+    "rewards": {
+      "gold": 927,
+      "exp": 556,
+      "first_clear_gems": 10,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 0.5,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-076",
+    "floor": 76,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 2
+      }
+    ],
+    "scale": 6.25,
+    "rewards": {
+      "gold": 313,
+      "exp": 188,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-077",
+    "floor": 77,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 2
+      }
+    ],
+    "scale": 6.32,
+    "rewards": {
+      "gold": 316,
+      "exp": 190,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-078",
+    "floor": 78,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 2
+      }
+    ],
+    "scale": 6.39,
+    "rewards": {
+      "gold": 320,
+      "exp": 192,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-079",
+    "floor": 79,
+    "type": "pawn",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-003",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-004",
+        "qty": 2
+      }
+    ],
+    "scale": 6.46,
+    "rewards": {
+      "gold": 323,
+      "exp": 194,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-080",
+    "floor": 80,
+    "type": "floor_boss",
+    "region_element": "Fire",
+    "enemies": [
+      {
+        "enemy": "ENM-FLR-008",
+        "qty": 1
+      }
+    ],
+    "scale": 6.53,
+    "rewards": {
+      "gold": 1632,
+      "exp": 980,
+      "first_clear_gems": 25,
+      "drops": [
+        {
+          "item": "MAT-005",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 2
+        },
+        {
+          "item": "MAT-009",
+          "chance": 0.34,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-081",
+    "floor": 81,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 2
+      }
+    ],
+    "scale": 6.6,
+    "rewards": {
+      "gold": 330,
+      "exp": 198,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-082",
+    "floor": 82,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 2
+      }
+    ],
+    "scale": 6.67,
+    "rewards": {
+      "gold": 334,
+      "exp": 200,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-083",
+    "floor": 83,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 2
+      }
+    ],
+    "scale": 6.74,
+    "rewards": {
+      "gold": 337,
+      "exp": 202,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-084",
+    "floor": 84,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 2
+      }
+    ],
+    "scale": 6.81,
+    "rewards": {
+      "gold": 340,
+      "exp": 204,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-085",
+    "floor": 85,
+    "type": "mind_boss",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-MND-009",
+        "qty": 1
+      }
+    ],
+    "scale": 6.88,
+    "rewards": {
+      "gold": 1032,
+      "exp": 619,
+      "first_clear_gems": 10,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 0.5,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-086",
+    "floor": 86,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 2
+      }
+    ],
+    "scale": 6.95,
+    "rewards": {
+      "gold": 348,
+      "exp": 208,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-087",
+    "floor": 87,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 2
+      }
+    ],
+    "scale": 7.02,
+    "rewards": {
+      "gold": 351,
+      "exp": 211,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-088",
+    "floor": 88,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 2
+      }
+    ],
+    "scale": 7.09,
+    "rewards": {
+      "gold": 355,
+      "exp": 213,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-089",
+    "floor": 89,
+    "type": "pawn",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-005",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-006",
+        "qty": 2
+      }
+    ],
+    "scale": 7.16,
+    "rewards": {
+      "gold": 358,
+      "exp": 215,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-090",
+    "floor": 90,
+    "type": "floor_boss",
+    "region_element": "Water",
+    "enemies": [
+      {
+        "enemy": "ENM-FLR-009",
+        "qty": 1
+      }
+    ],
+    "scale": 7.23,
+    "rewards": {
+      "gold": 1808,
+      "exp": 1084,
+      "first_clear_gems": 25,
+      "drops": [
+        {
+          "item": "MAT-007",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 2
+        },
+        {
+          "item": "MAT-009",
+          "chance": 0.37,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-091",
+    "floor": 91,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 7.3,
+    "rewards": {
+      "gold": 365,
+      "exp": 219,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-092",
+    "floor": 92,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 7.37,
+    "rewards": {
+      "gold": 369,
+      "exp": 221,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-093",
+    "floor": 93,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 7.44,
+    "rewards": {
+      "gold": 372,
+      "exp": 223,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-094",
+    "floor": 94,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 7.51,
+    "rewards": {
+      "gold": 376,
+      "exp": 225,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-095",
+    "floor": 95,
+    "type": "mind_boss",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-MND-010",
+        "qty": 1
+      }
+    ],
+    "scale": 7.58,
+    "rewards": {
+      "gold": 1137,
+      "exp": 682,
+      "first_clear_gems": 10,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 0.5,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-096",
+    "floor": 96,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 7.65,
+    "rewards": {
+      "gold": 382,
+      "exp": 230,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-097",
+    "floor": 97,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 7.72,
+    "rewards": {
+      "gold": 386,
+      "exp": 232,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-098",
+    "floor": 98,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 7.79,
+    "rewards": {
+      "gold": 390,
+      "exp": 234,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-099",
+    "floor": 99,
+    "type": "pawn",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-PWN-013",
+        "qty": 3
+      },
+      {
+        "enemy": "ENM-PWN-014",
+        "qty": 2
+      }
+    ],
+    "scale": 7.86,
+    "rewards": {
+      "gold": 393,
+      "exp": 236,
+      "first_clear_gems": 0,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.25,
+          "qty": 1
+        }
+      ]
+    },
+    "final": false
+  },
+  {
+    "id": "FLR-100",
+    "floor": 100,
+    "type": "floor_boss",
+    "region_element": "Dark",
+    "enemies": [
+      {
+        "enemy": "ENM-FLR-010",
+        "qty": 1
+      }
+    ],
+    "scale": 7.93,
+    "rewards": {
+      "gold": 1983,
+      "exp": 1190,
+      "first_clear_gems": 225,
+      "drops": [
+        {
+          "item": "MAT-010",
+          "chance": 0.6,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 2
+        },
+        {
+          "item": "MAT-009",
+          "chance": 0.4,
+          "qty": 1
+        }
+      ]
+    },
+    "final": true
+  }
+]

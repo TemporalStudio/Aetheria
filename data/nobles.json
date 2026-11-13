@@ -1,0 +1,32 @@
+[
+  {
+    "id": "NOB-001",
+    "name": "House Valtheon",
+    "surname": "Valtheon"
+  },
+  {
+    "id": "NOB-002",
+    "name": "House Ardwyn",
+    "surname": "Ardwyn"
+  },
+  {
+    "id": "NOB-003",
+    "name": "House Solmere",
+    "surname": "Solmere"
+  },
+  {
+    "id": "NOB-004",
+    "name": "House Kaelthorn",
+    "surname": "Kaelthorn"
+  },
+  {
+    "id": "NOB-005",
+    "name": "House Duskmoor",
+    "surname": "Duskmoor"
+  },
+  {
+    "id": "NOB-006",
+    "name": "House Brightvale",
+    "surname": "Brightvale"
+  }
+]

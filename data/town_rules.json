@@ -1,0 +1,94 @@
+{
+  "party_capacity": [
+    1,
+    2,
+    3
+  ],
+  "level_names": [
+    "F",
+    "D",
+    "B"
+  ],
+  "upgrade_cost": {
+    "2": {
+      "gold": 3000
+    },
+    "3": {
+      "gold": 10000
+    }
+  },
+  "dorm": {
+    "hp_pct": 0.4,
+    "sp_pct": 0.5,
+    "level_mult": [
+      1.0,
+      1.25,
+      1.5
+    ]
+  },
+  "passive_recovery": {
+    "hp_pct": 0.15,
+    "sp_pct": 0.15
+  },
+  "training": {
+    "chance": 0.6,
+    "level_mult": [
+      1.0,
+      1.25,
+      1.5
+    ],
+    "weights": {
+      "max_hp": 30,
+      "phys_atk": 18,
+      "magic_atk": 18,
+      "phys_def": 14,
+      "magic_def": 14,
+      "speed": 6
+    },
+    "gain": {
+      "max_hp": [
+        3,
+        6
+      ],
+      "phys_atk": [
+        1,
+        2
+      ],
+      "magic_atk": [
+        1,
+        2
+      ],
+      "phys_def": [
+        1,
+        2
+      ],
+      "magic_def": [
+        1,
+        2
+      ],
+      "speed": [
+        1,
+        1
+      ]
+    },
+    "cap_per_star": {
+      "max_hp": 40,
+      "phys_atk": 8,
+      "magic_atk": 8,
+      "phys_def": 8,
+      "magic_def": 8,
+      "speed": 4
+    }
+  },
+  "daily": {
+    "happiness_base": 1,
+    "happiness_dorm_bonus": 2,
+    "fear_calm": -1,
+    "fear_baseline": 20,
+    "injured_threshold": 0.3,
+    "injured_fear": 1
+  },
+  "dilemma_chance": 0.35,
+  "dilemma_no_repeat": 5,
+  "balance_status": "draft"
+}

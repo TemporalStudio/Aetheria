@@ -1,0 +1,78 @@
+[
+  {
+    "id": "STAR-1",
+    "star": 1,
+    "level_cap": 20,
+    "ultimate_unlocked": false,
+    "promotion": {
+      "to_star": 2,
+      "gold": 2000,
+      "materials": [
+        {
+          "item": "MAT-101",
+          "qty": 5
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "STAR-2",
+    "star": 2,
+    "level_cap": 30,
+    "ultimate_unlocked": false,
+    "promotion": {
+      "to_star": 3,
+      "gold": 8000,
+      "materials": [
+        {
+          "item": "MAT-102",
+          "qty": 7
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "STAR-3",
+    "star": 3,
+    "level_cap": 40,
+    "ultimate_unlocked": false,
+    "promotion": {
+      "to_star": 4,
+      "gold": 18000,
+      "materials": [
+        {
+          "item": "MAT-103",
+          "qty": 9
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "STAR-4",
+    "star": 4,
+    "level_cap": 50,
+    "ultimate_unlocked": true,
+    "promotion": {
+      "to_star": 5,
+      "gold": 32000,
+      "materials": [
+        {
+          "item": "MAT-104",
+          "qty": 11
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "STAR-5",
+    "star": 5,
+    "level_cap": 60,
+    "ultimate_unlocked": true,
+    "promotion": null,
+    "balance_status": "draft"
+  }
+]

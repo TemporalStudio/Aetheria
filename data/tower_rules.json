@@ -1,0 +1,38 @@
+{
+  "floors": 100,
+  "scaling": {
+    "per_floor": 0.07,
+    "formula": "mult = 1 + per_floor*(floor-1)"
+  },
+  "stat_weight": {
+    "hp": 1.0,
+    "atk": 1.0,
+    "def": 1.0,
+    "spd": 0.25
+  },
+  "pawn_count": "min(5, 2 + floor // 25)",
+  "floor_pattern": {
+    "mind_boss": "floor % 10 == 5",
+    "floor_boss": "floor % 10 == 0",
+    "final_boss": "floor == 100",
+    "pawn": "otherwise"
+  },
+  "region_elements": [
+    "Normal",
+    "Fire",
+    "Water",
+    "Wind",
+    "Earth",
+    "Light",
+    "Dark",
+    "Fire",
+    "Water",
+    "Dark"
+  ],
+  "type_reward_mult": {
+    "pawn": 1,
+    "mind_boss": 3,
+    "floor_boss": 5
+  },
+  "balance_status": "draft"
+}

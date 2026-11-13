@@ -1,0 +1,208 @@
+{
+  "names": [
+    "Lumi",
+    "Pip",
+    "Nyx",
+    "Sora"
+  ],
+  "personalities": {
+    "Cheerful": {
+      "risk_offset": -0.03,
+      "trust_gain": 1.0,
+      "openers": {
+        "happy": [
+          "Yay!"
+        ],
+        "neutral": [
+          "Hi hi!"
+        ],
+        "worried": [
+          "Um... okay, listen."
+        ],
+        "sad": [
+          "...I'll try to stay cheerful."
+        ],
+        "excited": [
+          "Wooo!"
+        ]
+      },
+      "closers": [
+        "You've got this!",
+        "I believe in you!"
+      ]
+    },
+    "Serious": {
+      "risk_offset": 0.05,
+      "trust_gain": 0.8,
+      "openers": {
+        "happy": [
+          "Good."
+        ],
+        "neutral": [
+          "Report."
+        ],
+        "worried": [
+          "Caution."
+        ],
+        "sad": [
+          "..."
+        ],
+        "excited": [
+          "Excellent."
+        ]
+      },
+      "closers": [
+        "Proceed carefully.",
+        "Decide wisely."
+      ]
+    },
+    "Gentle": {
+      "risk_offset": 0.03,
+      "trust_gain": 1.2,
+      "openers": {
+        "happy": [
+          "It's a lovely day."
+        ],
+        "neutral": [
+          "Hello."
+        ],
+        "worried": [
+          "Please be careful."
+        ],
+        "sad": [
+          "I'm so sorry."
+        ],
+        "excited": [
+          "Oh, wonderful!"
+        ]
+      },
+      "closers": [
+        "Take care of everyone.",
+        "Stay safe."
+      ]
+    },
+    "Playful": {
+      "risk_offset": 0.0,
+      "trust_gain": 1.0,
+      "openers": {
+        "happy": [
+          "Hehe~"
+        ],
+        "neutral": [
+          "Psst!"
+        ],
+        "worried": [
+          "Hmm, hmm, not great."
+        ],
+        "sad": [
+          "Aww..."
+        ],
+        "excited": [
+          "Ooh ooh!"
+        ]
+      },
+      "closers": [
+        "Bring everyone home, okay?",
+        "Don't make me cry!"
+      ]
+    }
+  },
+  "mood": {
+    "thresholds": {
+      "excited": 60,
+      "happy": 25,
+      "worried": -15,
+      "sad": -40
+    },
+    "decay_per_day": 5,
+    "events": {
+      "victory": 8,
+      "defeat": -15,
+      "hero_fell": -30,
+      "recruit": 6,
+      "mistake": -10,
+      "town_panic": -20,
+      "town_inspired": 10
+    }
+  },
+  "trust": {
+    "start": 50,
+    "correct": 2,
+    "mistake": -6,
+    "followed_win": 3,
+    "high": 70,
+    "low": 30
+  },
+  "risk": {
+    "runs": 20,
+    "levels": [
+      [
+        "Low",
+        0.05
+      ],
+      [
+        "Medium",
+        0.2
+      ],
+      [
+        "High",
+        0.45
+      ],
+      [
+        "Deadly",
+        1.01
+      ]
+    ],
+    "unknown_margin": 0.1,
+    "low_hp_threshold": 0.5,
+    "mistake_if_low_but_died": true,
+    "mistake_if_pdeath_at_least_but_safe": 0.7,
+    "top_risk_hero_min": 0.15
+  },
+  "memory_limit": 100,
+  "mistake_limit": 50,
+  "recent_mistake_days": 3,
+  "town": {
+    "fear_warn": 55,
+    "happiness_warn": 35,
+    "injured_threshold": 0.3
+  },
+  "templates": {
+    "risk_Low": "Floor {floor} looks safe: about {win}% to win, and only {death}% that someone falls.",
+    "risk_Medium": "Floor {floor} is risky: {win}% to win, {death}% that at least one Hero falls.",
+    "risk_High": "Floor {floor} is dangerous: {win}% to win, and {death}% that someone falls for good.",
+    "risk_Deadly": "Please do not take this Party to Floor {floor}. {death}% that someone dies, and only {win}% to win.",
+    "risk_weak_hero": "{name} is the most likely to fall ({pct}%).",
+    "warn_no_healer": "There is no Healer in this Party.",
+    "warn_low_hp": "{names} {verb} below half HP. Rest first.",
+    "warn_no_medical": "No Medical items are equipped.",
+    "warn_unknown": "I have not met these enemies yet, so my estimate is rough.",
+    "warn_element_weak": "{names} {verb} weak against this floor's {element} enemies.",
+    "warn_past_deaths": "{n} Hero(es) already fell on this floor: {names}.",
+    "mistake_admit": "I was wrong last time ({what}). I will be more careful.",
+    "suggest_intro": "This is the best Party I can build from who is available right now.",
+    "suggest_none": "You need at least one healthy, available Hero first.",
+    "suggest_warn_no_healer": "I could not find a Healer.",
+    "suggest_warn_small": "Only {n} Hero(es) available, so the Party is not full.",
+    "suggest_warn_hurt": "{names} {verb} hurt. Consider resting before you go.",
+    "town_panic": "The Town is Panicked! Facilities are stopped and Heroes will only Guard. Lower the Fear now.",
+    "town_fear": "Fear is {fear}. At 75 the Town panics.",
+    "town_burnout": "The Town is in Burnout. Facilities work at half speed.",
+    "town_happiness": "Happiness is down to {happiness}. At 25 or less the Town burns out.",
+    "town_injured": "{n} Hero(es) are badly hurt.",
+    "town_idle": "{name} is idle: it needs a Leader and at least 1 Staff.",
+    "town_dilemma": "A decision is waiting for you.",
+    "town_ok": "The Town is calm. Nothing needs your attention.",
+    "skip_summary": "Day {day}: {rested} Heroes recovered, {trained} trained. Happiness {dh}, Fear {df}.",
+    "memory_recruit": "{name} joined us ({star}★ {role}).",
+    "memory_fell": "{name} fell at {place} to {killer}.",
+    "memory_win": "Cleared Floor {floor} with party {party}.",
+    "memory_loss": "Lost the battle on Floor {floor} with party {party}.",
+    "memory_mistake": "I misjudged Floor {floor}: {what}.",
+    "narrate_explore_start": "We are entering {place}. Stay alert!",
+    "narrate_explore_find": "I found {item}!",
+    "narrate_explore_danger": "Something is moving ahead...",
+    "narrate_explore_end": "That is enough for today. Let us head back."
+  },
+  "balance_status": "draft"
+}

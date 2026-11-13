@@ -1,0 +1,11 @@
+{
+  "unlocked": true,
+  "mourning": {
+    "enabled": false,
+    "happiness_delta": -5,
+    "fear_delta": 5
+  },
+  "custom_inscription_max": 120,
+  "equipment_returns_to_inventory": true,
+  "balance_status": "draft"
+}

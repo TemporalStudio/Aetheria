@@ -1,0 +1,90 @@
+[
+  {
+    "id": "TS-001",
+    "name": "Night Watch",
+    "facility": "Dormitory",
+    "works_as": "both",
+    "effect": {
+      "stat": "recovery_bonus",
+      "value": 0.15
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "TS-002",
+    "name": "Drill Instructor",
+    "facility": "Training Ground",
+    "works_as": "leader",
+    "effect": {
+      "stat": "growth_chance",
+      "value": 0.1
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "TS-003",
+    "name": "Master Smith",
+    "facility": "Blacksmith",
+    "works_as": "leader",
+    "effect": {
+      "stat": "craft_success",
+      "value": 0.05
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "TS-004",
+    "name": "Alchemist",
+    "facility": "Magic Tower",
+    "works_as": "leader",
+    "effect": {
+      "stat": "craft_success",
+      "value": 0.05
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "TS-005",
+    "name": "Caretaker",
+    "facility": "Dormitory",
+    "works_as": "staff",
+    "effect": {
+      "stat": "happiness_per_day",
+      "value": 1
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "TS-006",
+    "name": "Calm Presence",
+    "facility": "any",
+    "works_as": "both",
+    "effect": {
+      "stat": "fear_per_day",
+      "value": -1
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "TS-007",
+    "name": "Efficient Worker",
+    "facility": "any",
+    "works_as": "staff",
+    "effect": {
+      "stat": "work_speed",
+      "value": 0.1
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "TS-008",
+    "name": "Quartermaster",
+    "facility": "any",
+    "works_as": "leader",
+    "effect": {
+      "stat": "facility_efficiency",
+      "value": 0.05
+    },
+    "balance_status": "draft"
+  }
+]

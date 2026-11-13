@@ -1,0 +1,122 @@
+[
+  {
+    "id": "RAID-1",
+    "tier": 1,
+    "boss": "ENM-RDB-001",
+    "rank_min": "E",
+    "party_min_heroes": 3,
+    "rewards": {
+      "gold": 5000,
+      "gems": 50,
+      "drops": [
+        {
+          "item": "MAT-009",
+          "chance": 0.5,
+          "qty": 1
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 2
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "RAID-2",
+    "tier": 2,
+    "boss": "ENM-RDB-002",
+    "rank_min": "C",
+    "party_min_heroes": 4,
+    "rewards": {
+      "gold": 20000,
+      "gems": 100,
+      "drops": [
+        {
+          "item": "MAT-009",
+          "chance": 0.5,
+          "qty": 2
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 4
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "RAID-3",
+    "tier": 3,
+    "boss": "ENM-RDB-003",
+    "rank_min": "A",
+    "party_min_heroes": 5,
+    "rewards": {
+      "gold": 45000,
+      "gems": 150,
+      "drops": [
+        {
+          "item": "MAT-009",
+          "chance": 0.5,
+          "qty": 3
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 6
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "RAID-4",
+    "tier": 4,
+    "boss": "ENM-RDB-004",
+    "rank_min": "SS",
+    "party_min_heroes": 5,
+    "rewards": {
+      "gold": 80000,
+      "gems": 200,
+      "drops": [
+        {
+          "item": "MAT-009",
+          "chance": 0.5,
+          "qty": 4
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 8
+        }
+      ]
+    },
+    "balance_status": "draft"
+  },
+  {
+    "id": "RAID-5",
+    "tier": 5,
+    "boss": "ENM-RDB-005",
+    "rank_min": "EX",
+    "party_min_heroes": 5,
+    "rewards": {
+      "gold": 125000,
+      "gems": 250,
+      "drops": [
+        {
+          "item": "MAT-009",
+          "chance": 0.5,
+          "qty": 5
+        },
+        {
+          "item": "MAT-008",
+          "chance": 1.0,
+          "qty": 10
+        }
+      ]
+    },
+    "balance_status": "draft"
+  }
+]
